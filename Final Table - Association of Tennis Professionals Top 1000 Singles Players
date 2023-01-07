@@ -1,0 +1,1001 @@
+Rank,Player,Age,Points,Tourn Played,Turned Pro,Weight,Height,Birthplace,Plays,Coach,Federation
+1,Carlos Alcaraz,19.0,6820.0,17.0,2018.0,163.0,72.0,"El Palmar, Murcia, Spain","Right-Handed, Two-Handed Backhand",Juan Carlos Ferrero,ESP
+2,Rafael Nadal,36.0,6020.0,14.0,2001.0,187.0,73.0,"Manacor, Mallorca, Spain","Left-Handed, Two-Handed Backhand","Carlos Moya, Marc Lopez, Gustavo Marcaccio",ESP
+3,Casper Ruud,24.0,5820.0,23.0,2015.0,170.0,72.0,"Oslo, Norway","Right-Handed, Two-Handed Backhand",Christian Ruud,NOR
+4,Stefanos Tsitsipas,24.0,5550.0,23.0,2016.0,198.0,76.0,"Athens, Greece","Right-Handed, One-Handed Backhand",Apostolos Tsitsipas,GRE
+5,Novak Djokovic,35.0,4820.0,14.0,2003.0,170.0,74.0,"Belgrade, Serbia","Right-Handed, Two-Handed Backhand",Goran Ivanisevic,SRB
+6,Felix Auger-Aliassime,22.0,4195.0,26.0,2017.0,194.0,76.0,"Montreal, Canada","Right-Handed, Two-Handed Backhand","Frederic Fontang, Toni Nadal",CAN
+7,Daniil Medvedev,26.0,4065.0,21.0,2014.0,182.0,78.0,"Moscow, Russia","Right-Handed, Two-Handed Backhand",Gilles Cervara,
+8,Andrey Rublev,25.0,3930.0,23.0,2014.0,165.0,74.0,"Moscow, Russia","Right-Handed, Two-Handed Backhand",Fernando Vicente,
+9,Taylor Fritz,25.0,3355.0,22.0,2015.0,190.0,77.0,"Rancho Santa Fe, CA, USA","Right-Handed, Two-Handed Backhand","Michael Russell, Paul Annacone",USA
+10,Hubert Hurkacz,25.0,2905.0,21.0,2015.0,179.0,77.0,"Wroclaw, Poland","Right-Handed, Two-Handed Backhand",Craig Boynton,POL
+11,Holger Rune,19.0,2888.0,27.0,2020.0,169.0,74.0,"Gentofte, Denmark","Right-Handed, Two-Handed Backhand","Lars Christensen, Patrick Mouratoglou",DEN
+12,Alexander Zverev,25.0,2700.0,18.0,2013.0,198.0,78.0,"Hamburg, Germany","Right-Handed, Two-Handed Backhand","Sergi Bruguera, Alexander Zverev Sr.",GER
+13,Pablo Carreno Busta,31.0,2495.0,24.0,2009.0,172.0,74.0,"Gijon, Spain","Right-Handed, Two-Handed Backhand","Samuel Lopez, Jose Antonio Sanchez-de Luna",ESP
+14,Cameron Norrie,27.0,2445.0,23.0,2017.0,181.0,74.0,"Johannesburg, South Africa","Left-Handed, Two-Handed Backhand",Facundo Lugones,GBR
+15,Jannik Sinner,21.0,2410.0,18.0,2018.0,167.0,74.0,"San Candido, Italy","Right-Handed, Two-Handed Backhand","Simone Vagnozzi, Darren Cahill",ITA
+16,Matteo Berrettini,26.0,2375.0,19.0,2015.0,209.0,77.0,"Rome, Italy","Right-Handed, Two-Handed Backhand","Vincenzo Santopadre, Marco Gulisano, Umberto Rianna",ITA
+17,Marin Cilic,34.0,2105.0,20.0,2005.0,196.0,78.0,"Medjugorje, Bosnia-Herzegovina","Right-Handed, Two-Handed Backhand","Ivan Cinkus, Vilim Visak",CRO
+18,Denis Shapovalov,23.0,2075.0,23.0,2017.0,165.0,73.0,"Tel Aviv, Israel","Left-Handed, One-Handed Backhand","Peter Polansky, Mikhail Youzhny",CAN
+19,Frances Tiafoe,24.0,2000.0,22.0,2015.0,190.0,74.0,"Hyattsville, MD, USA","Right-Handed, Two-Handed Backhand",Wayne Ferreira,USA
+20,Karen Khachanov,26.0,1990.0,25.0,2013.0,192.0,78.0,"Moscow, Russia","Right-Handed, Two-Handed Backhand","Jose Clavet, Vedran Martic",
+21,Roberto Bautista Agut,34.0,1940.0,23.0,2005.0,165.0,72.0,"Castellon de la Plana, Spain","Right-Handed, Two-Handed Backhand","Daniel Gimeno-Traver, Tomas Carbonell",ESP
+22,Nick Kyrgios,27.0,1870.0,14.0,2013.0,187.0,76.0,"Canberra, Australia","Right-Handed, Two-Handed Backhand",,AUS
+23,Lorenzo Musetti,20.0,1865.0,28.0,2019.0,172.0,73.0,"Carrara, Italy","Right-Handed, One-Handed Backhand",Simone Tartarini,ITA
+24,Alex de Minaur,23.0,1790.0,24.0,2015.0,152.0,72.0,"Sydney, Australia","Right-Handed, Two-Handed Backhand",Adolfo Gutierrez,AUS
+25,Diego Schwartzman,30.0,1700.0,23.0,2010.0,141.0,67.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand","Juan Ignacio Chela, Alejandro Fabbri",ARG
+26,Borna Coric,26.0,1685.0,19.0,2013.0,187.0,74.0,"Zagreb, Croatia","Right-Handed, Two-Handed Backhand",Mate Delic,CRO
+27,Daniel Evans,32.0,1585.0,27.0,2006.0,165.0,69.0,"Birmingham, England","Right-Handed, One-Handed Backhand",Sebastian Prieto,GBR
+28,Grigor Dimitrov,31.0,1460.0,21.0,2008.0,179.0,75.0,"Haskovo, Bulgaria","Right-Handed, One-Handed Backhand",,BUL
+29,Miomir Kecmanovic,23.0,1420.0,23.0,2017.0,165.0,72.0,"Belgrade, Serbia","Right-Handed, Two-Handed Backhand",Wayne Black,SRB
+30,Francisco Cerundolo,24.0,1395.0,23.0,2018.0,176.0,73.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Kevin Konfederak,ARG
+31,Alejandro Davidovich Fokina,23.0,1280.0,25.0,2017.0,176.0,72.0,"Malaga, Spain","Right-Handed, Two-Handed Backhand",Jorge Aguirre,ESP
+32,Tommy Paul,25.0,1210.0,25.0,2015.0,180.0,73.0,"Voorhees, NJ, USA","Right-Handed, Two-Handed Backhand",Brad Stine,USA
+33,Sebastian Korda,22.0,1175.0,22.0,2018.0,175.0,77.0,"Bradenton, FL, USA","Right-Handed, Two-Handed Backhand","Petr Korda, Dean Goldfine, Theodor Devoty",USA
+34,Maxime Cressy,25.0,1163.0,29.0,2019.0,187.0,79.0,"Paris, France","Right-Handed, Two-Handed Backhand","Romain Sichez, Juanjo Climent",USA
+35,Botic van de Zandschulp,27.0,1160.0,27.0,2016.0,187.0,75.0,"Wageningen, Netherlands","Right-Handed, Two-Handed Backhand",Peter Lucassen,NED
+36,Yoshihito Nishioka,27.0,1134.0,23.0,2014.0,141.0,67.0,"Mie, Japan","Left-Handed, Two-Handed Backhand",Yasuo Nishioka,JPN
+37,Alexander Bublik,25.0,1130.0,26.0,2016.0,180.0,77.0,"Gatchina, Russia","Right-Handed, Two-Handed Backhand",Artem Suprunov,KAZ
+38,Reilly Opelka,25.0,1095.0,22.0,2015.0,225.0,83.0,"St. Joseph, MI, USA","Right-Handed, Two-Handed Backhand",Jay Berger,USA
+39,Albert Ramos-Vinolas,34.0,1075.0,28.0,2007.0,168.0,74.0,"Barcelona, Spain","Left-Handed, Two-Handed Backhand","Jose Maria Diaz, Tiago Leivas",ESP
+40,Emil Ruusuvuori,23.0,1011.0,28.0,2018.0,174.0,74.0,"Helsinki, Finland","Right-Handed, Two-Handed Backhand",Federico Ricci,FIN
+41,John Isner,37.0,1005.0,19.0,2007.0,238.0,82.0,"Greensboro, NC, USA","Right-Handed, Two-Handed Backhand",Philip Farmer,USA
+42,Jack Draper,21.0,990.0,20.0,2018.0,187.0,76.0,"Sutton, England","Left-Handed, Two-Handed Backhand",James Trotman,GBR
+43,Sebastian Baez,22.0,987.0,28.0,2018.0,154.0,67.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Sebastian Gutierrez,ARG
+44,Arthur Rinderknech,27.0,952.0,22.0,2018.0,193.0,77.0,"Gassin, France","Right-Handed, Two-Handed Backhand",Sebastien Villette,FRA
+45,Lorenzo Sonego,27.0,950.0,28.0,2013.0,168.0,75.0,"Turin, Italy","Right-Handed, Two-Handed Backhand",Gipo Arbino,ITA
+46,Adrian Mannarino,34.0,946.0,27.0,2004.0,174.0,71.0,"Soisy-sous-Montmorency, France","Left-Handed, Two-Handed Backhand",Erwann Tortuyaux,FRA
+47,Brandon Nakashima,21.0,927.0,25.0,2019.0,185.0,74.0,"San Diego, CA, USA","Right-Handed, Two-Handed Backhand",Eduardo Infantino,USA
+48,Jenson Brooksby,22.0,920.0,24.0,2021.0,183.0,76.0,"Sacramento, CA, USA","Right-Handed, Two-Handed Backhand","Joseph Gilbert, Cam Muller",USA
+49,Andy Murray,35.0,920.0,20.0,2005.0,181.0,75.0,"Glasgow, Scotland","Right-Handed, Two-Handed Backhand",Ivan Lendl,GBR
+50,Alex Molcan,25.0,895.0,22.0,2015.0,160.0,70.0,"Presov, Slovakia","Left-Handed, Two-Handed Backhand","Karol Beck, Marian Vajda",SVK
+51,Corentin Moutet,23.0,892.0,21.0,2016.0,156.0,69.0,"Paris, France","Left-Handed, Two-Handed Backhand",Laurent Raymond,FRA
+52,Gael Monfils,36.0,880.0,14.0,2004.0,187.0,76.0,"Paris, France","Right-Handed, Two-Handed Backhand","Gunter Bresnik, Richard Ruckelshausen",FRA
+53,David Goffin,32.0,870.0,26.0,2009.0,154.0,71.0,"Rocourt, Belgium","Right-Handed, Two-Handed Backhand",Germain Gigounon,BEL
+54,Filip Krajinovic,30.0,845.0,16.0,2008.0,165.0,73.0,"Sombor, Serbia","Right-Handed, Two-Handed Backhand",,SRB
+55,Fabio Fognini,35.0,843.0,23.0,2004.0,174.0,70.0,"Sanremo, Italy","Right-Handed, Two-Handed Backhand",German Gaich,ITA
+56,Marc-Andrea Huesler,26.0,818.0,26.0,2016.0,189.0,77.0,"Zurich, Switzerland","Left-Handed, Two-Handed Backhand","Thiemo Scharfenberger, Juerg Huesler",SUI
+57,Pedro Cachin,27.0,813.0,22.0,2013.0,169.0,73.0,"Bell Ville, Argentina","Right-Handed, Two-Handed Backhand","Dante Gennaro, Alex Corretja",ARG
+58,Jaume Munar,25.0,802.0,29.0,2014.0,168.0,72.0,"Santanyi, Mallorca, Spain","Right-Handed, Two-Handed Backhand","Tomeu Salva, Gustavo Marcaccio",ESP
+59,Aslan Karatsev,29.0,795.0,30.0,2011.0,187.0,73.0,"Vladikavkaz, Russia","Right-Handed, Two-Handed Backhand",Yahor Yatsyk,
+60,Benjamin Bonzi,26.0,781.0,26.0,2015.0,180.0,72.0,"Nimes, France","Right-Handed, Two-Handed Backhand",Lionel Zimbler,FRA
+61,Marcos Giron,29.0,776.0,27.0,2014.0,170.0,71.0,"Thousand Oaks, CA, USA","Right-Handed, Two-Handed Backhand","Maxime Tabatruong, Evan Lee",USA
+62,Pedro Martinez,25.0,776.0,27.0,2016.0,168.0,73.0,"Alzira, Spain","Right-Handed, Two-Handed Backhand",Javier Ferrer,ESP
+63,Mackenzie McDonald,27.0,775.0,28.0,2016.0,160.0,70.0,"Piedmont, CA, USA","Right-Handed, Two-Handed Backhand",Robby Ginepri,USA
+64,Quentin Halys,26.0,767.0,28.0,2012.0,187.0,75.0,"Bondy, France","Right-Handed, Two-Handed Backhand",Nicolas Devilder,FRA
+65,Constant Lestienne,30.0,760.0,27.0,2012.0,170.0,71.0,"Amiens, France","Right-Handed, Two-Handed Backhand",,FRA
+66,J.J. Wolf,24.0,746.0,26.0,2019.0,170.0,72.0,"Cincinnati, OH, USA","Right-Handed, Two-Handed Backhand","Patrick Thompson, David Kass",USA
+67,Daniel Elahi Galan,26.0,741.0,24.0,2015.0,159.0,75.0,"Bucaramanga, Colombia","Right-Handed, Two-Handed Backhand",Santos Galan,COL
+68,Richard Gasquet,36.0,740.0,24.0,2002.0,174.0,72.0,"Beziers, France","Right-Handed, One-Handed Backhand",Julien Cassaigne,FRA
+69,Mikael Ymer,24.0,739.0,22.0,2015.0,165.0,72.0,"Skovde, Sweden","Right-Handed, Two-Handed Backhand","Frederik Nielsen, Kalle Norberg",SWE
+70,Laslo Djere,27.0,738.0,25.0,2013.0,181.0,74.0,"Senta, Serbia","Right-Handed, Two-Handed Backhand",Jaroslav Levinsky,SRB
+71,Thiago Monteiro,28.0,738.0,28.0,2011.0,172.0,72.0,"Fortaleza, Brazil","Left-Handed, Two-Handed Backhand","Ruben Ramirez-Hidalgo, Pablo Fuentes",BRA
+72,Bernabe Zapata Miralles,25.0,712.0,25.0,2015.0,174.0,72.0,"Valencia, Spain","Right-Handed, Two-Handed Backhand",Carlos Navarro,ESP
+73,Ilya Ivashka,28.0,705.0,25.0,2013.0,191.0,76.0,"Minsk, Belarus","Right-Handed, Two-Handed Backhand",Jose Checa-Calvo,
+74,Roberto Carballes Baena,29.0,695.0,32.0,2011.0,170.0,72.0,"Tenerife, Spain","Right-Handed, Two-Handed Backhand","Jose Maria Garrido, Jose Maria Arenas",ESP
+75,Federico Coria,30.0,695.0,31.0,2010.0,161.0,71.0,"Rosario, Argentina","Right-Handed, Two-Handed Backhand",Andres Schneiter,ARG
+76,Oscar Otte,29.0,691.0,25.0,2011.0,174.0,76.0,"Cologne, Germany","Right-Handed, Two-Handed Backhand",Peter Moraing,GER
+77,Kamil Majchrzak,26.0,653.0,21.0,2013.0,173.0,71.0,"Piotrkow Trybunalski, Poland","Right-Handed, Two-Handed Backhand",Jean-Marcel Bourgault Du Coudray,POL
+78,Christopher O'Connell,28.0,652.0,27.0,2011.0,172.0,72.0,"Sydney, Australia","Right-Handed, One-Handed Backhand",Marinko Matosevic,AUS
+79,Tomas Martin Etcheverry,23.0,649.0,30.0,2017.0,180.0,77.0,"La Plata, Argentina","Right-Handed, Two-Handed Backhand",Carlos Berlocq,ARG
+80,Dusan Lajovic,32.0,646.0,27.0,2007.0,183.0,72.0,"Belgrade, Serbia","Right-Handed, One-Handed Backhand",Jose Perlas,SRB
+81,Jiri Lehecka,21.0,646.0,26.0,2020.0,179.0,73.0,"Mlada Boleslav, Czech Republic","Right-Handed, Two-Handed Backhand",Michal Navratil,CZE
+82,Joao Sousa,33.0,638.0,24.0,2008.0,163.0,73.0,"Guimaraes, Portugal","Right-Handed, Two-Handed Backhand",Frederico Marques,POR
+83,Soonwoo Kwon,25.0,630.0,24.0,2015.0,159.0,71.0,"Sangju, South Korea","Right-Handed, Two-Handed Backhand",Daniel Yoo,KOR
+84,Jordan Thompson,28.0,626.0,28.0,2013.0,181.0,72.0,"Sydney, Australia","Right-Handed, Two-Handed Backhand",Peter Luczak,AUS
+85,Cristian Garin,26.0,615.0,22.0,2011.0,187.0,73.0,"Santiago, Chile","Right-Handed, Two-Handed Backhand",Pepe Vendrell,CHI
+86,Ugo Humbert,24.0,613.0,25.0,2016.0,160.0,74.0,"Metz, France","Left-Handed, Two-Handed Backhand","Jeremy Chardy, Thierry Ascione",FRA
+87,Marton Fucsovics,30.0,607.0,24.0,2010.0,181.0,74.0,"Nyiregyhaza, Hungary","Right-Handed, Two-Handed Backhand","Zoltan Nagy, Miklos Jancso",HUN
+88,Roman Safiullin,25.0,606.0,17.0,2015.0,165.0,73.0,"Podolsk, Russia","Right-Handed, Two-Handed Backhand",Yahor Yatsyk,
+89,Facundo Bagnis,32.0,603.0,28.0,2008.0,180.0,72.0,"Rosario, Argentina","Left-Handed, Two-Handed Backhand",Antonio Pastorino,ARG
+90,Gregoire Barrere,28.0,603.0,29.0,2012.0,176.0,72.0,"Charenton-le-Pont, France","Right-Handed, Two-Handed Backhand",Nicolas Copin,FRA
+91,Nikoloz Basilashvili,30.0,595.0,28.0,2008.0,174.0,73.0,"Tbilisi, Georgia","Right-Handed, Two-Handed Backhand",,GEO
+92,Taro Daniel,29.0,594.0,24.0,2010.0,185.0,75.0,"New York, NY, USA","Right-Handed, Two-Handed Backhand",,JPN
+93,Thanasi Kokkinakis,26.0,592.0,15.0,2013.0,185.0,76.0,"Adelaide, Australia","Right-Handed, Two-Handed Backhand","Todd Langman, Todd Ley",AUS
+94,Daniel Altmaier,24.0,590.0,31.0,2014.0,176.0,74.0,"Kempen, Germany","Right-Handed, One-Handed Backhand",Alberto Mancini,GER
+95,Tallon Griekspoor,26.0,584.0,25.0,2015.0,187.0,74.0,"Haarlem, Netherlands","Right-Handed, Two-Handed Backhand",Dennis Schenk,NED
+96,Ben Shelton,20.0,584.0,14.0,2022.0,195.0,76.0,"Atlanta, GA, USA","Left-Handed, Two-Handed Backhand","Bryan Shelton, Dean Goldfine",USA
+97,Tomas Machac,22.0,580.0,20.0,2017.0,163.0,72.0,"Beroun, Czech Republic","Right-Handed, Two-Handed Backhand",Daniel Vacek,CZE
+98,Vasek Pospisil,32.0,570.0,20.0,2007.0,194.0,76.0,"Vernon, Canada","Right-Handed, Two-Handed Backhand",,CAN
+99,Zhizhen Zhang,26.0,569.0,25.0,2012.0,192.0,76.0,"Shanghai, China","Right-Handed, Two-Handed Backhand",Luka Kutanjac,CHN
+100,Alejandro Tabilo,25.0,567.0,17.0,2015.0,165.0,74.0,"Toronto, Canada","Left-Handed, Two-Handed Backhand",Guillermo Gomez,CHI
+101,Marco Cecchinato,30.0,562.0,30.0,2010.0,171.0,73.0,"Palermo, Italy","Right-Handed, One-Handed Backhand",Massimo Sartori,ITA
+102,Dominic Thiem,29.0,561.0,23.0,2011.0,174.0,73.0,"Wiener Neustadt, Austria","Right-Handed, One-Handed Backhand",Nicolas Massu,AUT
+103,Radu Albot,33.0,559.0,23.0,2008.0,152.0,69.0,"Chisinau, Moldova","Right-Handed, Two-Handed Backhand",Magnus Tideman,MDA
+104,Emilio Gomez,31.0,553.0,22.0,2013.0,179.0,73.0,"Guayaquil, Ecuador","Right-Handed, Two-Handed Backhand",Andres Schneiter,ECU
+105,Juan Pablo Varillas,27.0,552.0,25.0,2013.0,170.0,73.0,"Lima, Peru","Right-Handed, Two-Handed Backhand",Diego Junqueira,PER
+106,Denis Kudla,30.0,548.0,25.0,2010.0,175.0,71.0,"Kiev, Ukraine","Right-Handed, Two-Handed Backhand",Robert Lindstedt,USA
+107,Jason Kubler,29.0,538.0,21.0,2011.0,163.0,70.0,"Brisbane, Australia","Right-Handed, Two-Handed Backhand","Jarrad Bunt, Stephen Huss",AUS
+108,Hugo Gaston,22.0,526.0,25.0,2018.0,149.0,68.0,"Toulouse, France","Left-Handed, Two-Handed Backhand",Marc Barbier,FRA
+109,Jiri Vesely,29.0,524.0,18.0,2009.0,207.0,78.0,"Pribram, Czech Republic","Left-Handed, Two-Handed Backhand","Jaroslav Navratil, Dusan Lojda",CZE
+110,Steve Johnson,33.0,517.0,25.0,2012.0,190.0,74.0,"Orange, CA, USA","Right-Handed, Two-Handed Backhand","Peter Smith, Marc Lucero",USA
+111,Tim van Rijthoven,25.0,516.0,23.0,2015.0,195.0,74.0,"Roosendaal, The Netherlands","Right-Handed, One-Handed Backhand",Igor Sijsling,NED
+112,Nuno Borges,25.0,512.0,25.0,2019.0,171.0,73.0,"Maia, Portugal","Right-Handed, Two-Handed Backhand",Rui Machado,POR
+113,Michael Mmoh,24.0,507.0,26.0,2016.0,198.0,74.0,"Riyadh, Saudi Arabia","Right-Handed, Two-Handed Backhand",Zack Evenden,USA
+114,Norbert Gombos,32.0,496.0,22.0,2009.0,187.0,76.0,"Galanta, Slovakia","Right-Handed, Two-Handed Backhand",Tibor Toth,SVK
+115,Chun-Hsin Tseng,21.0,490.0,23.0,2019.0,143.0,69.0,"Taipei, Chinese Taipei","Right-Handed, Two-Handed Backhand",Benjamin Ebrahimzadeh,TPE
+116,Yibing Wu,23.0,488.0,11.0,2017.0,176.0,72.0,"Hangzhou, China","Right-Handed, Two-Handed Backhand",Gerardo Azcurra,CHN
+117,Pavel Kotov,24.0,483.0,20.0,2016.0,196.0,75.0,"Moscow, Russia","Right-Handed, Two-Handed Backhand","Ivan Poliakov, Igor Chelyshev",
+118,Dominic Stricker,20.0,483.0,23.0,2020.0,176.0,72.0,"Grosshochstetten, Switzerland","Left-Handed, Two-Handed Backhand",Sven Swinnen,SUI
+119,Francesco Passaro,21.0,473.0,26.0,2019.0,180.0,71.0,"Perugia, Italy","Right-Handed, Two-Handed Backhand",Roberto Tarpani,ITA
+120,Alexei Popyrin,23.0,469.0,25.0,2017.0,172.0,77.0,"Sydney, Australia","Right-Handed, Two-Handed Backhand",Fernando Bogajo,AUS
+121,Pablo Andujar,36.0,467.0,21.0,2003.0,176.0,71.0,"Cuenca, Spain","Right-Handed, Two-Handed Backhand",Marcos Esparcia,ESP
+122,Jurij Rodionov,23.0,465.0,28.0,2017.0,184.0,75.0,"Nuremberg, Germany","Left-Handed, Two-Handed Backhand",Richard Waite,AUT
+123,Christopher Eubanks,26.0,462.0,23.0,2017.0,180.0,79.0,"Atlanta, GA, USA","Right-Handed, One-Handed Backhand",Ruan Roelofse,USA
+124,Fernando Verdasco,39.0,460.0,30.0,2001.0,198.0,74.0,"Madrid, Spain","Left-Handed, Two-Handed Backhand","Diego Dinomo, David Sanchez, Quino Munoz",ESP
+125,Federico Delbonis,32.0,456.0,26.0,2007.0,198.0,76.0,"Azul, Argentina","Left-Handed, Two-Handed Backhand",Mariano Hood,ARG
+126,Camilo Ugo Carabelli,23.0,449.0,22.0,2016.0,182.0,73.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand","Leonardo Olguin, Marcos Massonneau",ARG
+127,Elias Ymer,26.0,444.0,22.0,2014.0,171.0,73.0,"Skara, Sweden","Right-Handed, Two-Handed Backhand",Rafael Ymer,SWE
+128,Yannick Hanfmann,31.0,435.0,22.0,2015.0,190.0,76.0,"Karlsruhe, Germany","Right-Handed, Two-Handed Backhand","Lukas Wolff, Lars Uebel",GER
+129,Zizou Bergs,23.0,435.0,22.0,2018.0,189.0,73.0,"Lommel, Belgium","Right-Handed, Two-Handed Backhand",Bertrand Tinck,BEL
+130,Aleksandar Vukic,26.0,429.0,24.0,2018.0,187.0,74.0,"Sydney, Australia","Right-Handed, Two-Handed Backhand",,AUS
+131,Jack Sock,30.0,428.0,19.0,2011.0,195.0,75.0,"Lincoln, NE, USA","Right-Handed, Two-Handed Backhand",,USA
+132,Hugo Dellien,29.0,425.0,18.0,2009.0,165.0,71.0,"Trinidad, Bolivia","Right-Handed, Two-Handed Backhand",Antonio Pastorino,BOL
+133,Jelle Sels,27.0,421.0,29.0,,183.0,74.0,"Woerden, Netherlands","Right-Handed, One-Handed Backhand",,NED
+134,Matteo Arnaldi,21.0,419.0,30.0,2019.0,157.0,73.0,"Sanremo, Italy","Right-Handed, Two-Handed Backhand",Alessandro Petrone,ITA
+135,Luca Nardi,19.0,408.0,21.0,,176.0,73.0,Pesaro,"Right-Handed, Two-Handed Backhand","Francesco Sani, Gabriele Costantini",ITA
+136,Lukas Klein,24.0,405.0,20.0,,187.0,76.0,"Spisska Nova Ves, Slovakia","Right-Handed, Unknown Backhand",,SVK
+137,Jozef Kovalik,30.0,404.0,18.0,2010.0,181.0,72.0,"Bratislava, Slovakia","Right-Handed, Two-Handed Backhand",Boris Borgula,SVK
+138,Franco Agamenone,29.0,403.0,30.0,2010.0,176.0,75.0,"Rio Cuarto, Argentina","Right-Handed, Two-Handed Backhand",Andrea Trono,ITA
+139,Luca Van Assche,18.0,403.0,28.0,,154.0,70.0,Woluwe St Lambert,"Right-Handed, Two-Handed Backhand",Yannick Quere,FRA
+140,Vit Kopriva,25.0,391.0,26.0,2015.0,152.0,70.0,"Bilovec, Czech Republic","Right-Handed, Two-Handed Backhand",Jaroslav Pospisil,CZE
+141,Hugo Grenier,26.0,388.0,28.0,2013.0,187.0,77.0,"Montbrison, France","Right-Handed, Two-Handed Backhand",Gerard Solves,FRA
+142,Timofey Skatov,21.0,387.0,31.0,2019.0,159.0,69.0,"Petropavlovsk, Kazakhstan","Right-Handed, Two-Handed Backhand",Jose Altur,KAZ
+143,Gilles Simon,38.0,385.0,25.0,2002.0,154.0,72.0,"Nice, France","Right-Handed, Two-Handed Backhand",Etienne Laforgue,FRA
+144,Borna Gojo,24.0,381.0,23.0,2020.0,198.0,77.0,"Split, Croatia","Right-Handed, Two-Handed Backhand",Goran Prpic,CRO
+145,Yosuke Watanuki,24.0,381.0,20.0,2016.0,154.0,71.0,"Saitama, Japan","Right-Handed, Two-Handed Backhand",Yusuke Watanuki,JPN
+146,Manuel Guinard,27.0,380.0,29.0,2016.0,181.0,78.0,"Saint-Malo, France","Right-Handed, Two-Handed Backhand",Sebastien Villette,FRA
+147,John Millman,33.0,378.0,24.0,2006.0,174.0,72.0,"Brisbane, Australia","Right-Handed, Two-Handed Backhand",,AUS
+148,Stan Wawrinka,37.0,377.0,15.0,2002.0,179.0,72.0,"Lausanne, Switzerland","Right-Handed, One-Handed Backhand",Magnus Norman,SUI
+149,Filip Misolic,21.0,376.0,17.0,2019.0,165.0,71.0,"Graz, Austria","Right-Handed, Two-Handed Backhand",,AUT
+150,Jan-Lennard Struff,32.0,375.0,19.0,2009.0,202.0,76.0,"Warstein, Germany","Right-Handed, Two-Handed Backhand",Carsten Arriens,GER
+151,Juan Manuel Cerundolo,21.0,370.0,18.0,2018.0,157.0,72.0,"Buenos Aires, Argentina","Left-Handed, Two-Handed Backhand","Andres Dellatorre, Alejandro Cerundolo",ARG
+152,Nicolas Jarry,27.0,370.0,20.0,2014.0,198.0,78.0,"Santiago, Chile","Right-Handed, Two-Handed Backhand",Juan Ozon-Llacer,CHI
+153,Mattia Bellucci,21.0,370.0,29.0,,158.0,70.0,Busto Arsizio,"Left-Handed, Two-Handed Backhand","Fabio Chiappini, Bellucci Fabrizio",ITA
+154,Alexander Shevchenko,22.0,369.0,33.0,2018.0,165.0,73.0,"Rostov-on-Don, Russia","Right-Handed, Two-Handed Backhand",Gunter Bresnik,
+155,James Duckworth,30.0,363.0,25.0,2010.0,181.0,72.0,"Sydney, Australia","Right-Handed, Two-Handed Backhand",Wayne Arthurs,AUS
+156,Gijs Brouwer,26.0,360.0,24.0,2016.0,161.0,75.0,"Houston, TX, USA","Left-Handed, Two-Handed Backhand",Michiel Schapers,NED
+157,Leandro Riedi,20.0,360.0,20.0,,171.0,75.0,Frauenfeld,"Right-Handed, Two-Handed Backhand",Yves Allegro,SUI
+158,Aleksandar Kovacevic,24.0,360.0,27.0,2021.0,174.0,72.0,New York City,"Right-Handed, One-Handed Backhand","Milan Kovacevic, Dean Goldfine",USA
+159,Maximilian Marterer,27.0,354.0,25.0,2015.0,171.0,74.0,"Nuremberg, Germany","Left-Handed, Two-Handed Backhand",Gerald Radovici,GER
+160,Alexandre Muller,25.0,351.0,29.0,2014.0,165.0,72.0,"Poissy, France","Right-Handed, Two-Handed Backhand",Xavier Pujo,FRA
+161,Giulio Zeppieri,21.0,350.0,27.0,2019.0,180.0,72.0,"Rome, Italy","Left-Handed, Two-Handed Backhand",Giuseppe Fischetti,ITA
+162,Zsombor Piros,23.0,349.0,20.0,2016.0,150.0,71.0,"Budapest, Hungary","Right-Handed, Two-Handed Backhand",Attila Piros,HUN
+163,Liam Broady,28.0,348.0,23.0,2014.0,172.0,72.0,"Stockport, England","Left-Handed, Two-Handed Backhand",David Sammel,GBR
+164,Rinky Hijikata,21.0,344.0,31.0,2021.0,159.0,70.0,"Sydney, Australia","Right-Handed, Two-Handed Backhand",Mark Draper,AUS
+165,Carlos Taberner,25.0,343.0,27.0,2015.0,172.0,72.0,"Valencia, Spain","Right-Handed, Two-Handed Backhand",Carlos Calderon,ESP
+166,Felipe Meligeni Alves,24.0,343.0,26.0,2016.0,173.0,73.0,"Campinas, Brazil","Right-Handed, Two-Handed Backhand",Francisco Yunis,BRA
+167,Ryan Peniston,27.0,340.0,22.0,,165.0,71.0,"Southend-on-sea, Essex","Left-Handed, Two-Handed Backhand",Mark Taylor,GBR
+168,Ricardas Berankis,32.0,339.0,12.0,2007.0,170.0,69.0,"Vilnius, Lithuania","Right-Handed, Two-Handed Backhand","Janko Tipsarevic, Dirk Hordorff",LTU
+169,Alexander Ritschard,28.0,335.0,24.0,2018.0,180.0,76.0,"Zurich, Switzerland","Right-Handed, Two-Handed Backhand","Hans Ritschard, Juan Ramirez",SUI
+170,Geoffrey Blancaneaux,24.0,335.0,33.0,2016.0,165.0,71.0,"Paris, France","Right-Handed, Two-Handed Backhand","Xavier Le Gall, Salame Bakfalouni, Maximilien Blancaneaux",FRA
+171,Flavio Cobolli,20.0,335.0,30.0,2020.0,156.0,,"Florence, Italy","Right-Handed, Two-Handed Backhand",Stefano Cobolli,ITA
+172,Henri Laaksonen,30.0,334.0,23.0,2009.0,172.0,73.0,"Lohja, Finland","Right-Handed, Two-Handed Backhand",David Pultr,SUI
+173,Fabian Marozsan,23.0,328.0,21.0,2017.0,165.0,76.0,"Budapest, Hungary","Right-Handed, Two-Handed Backhand",Miklos Palagyi,HUN
+174,Enzo Couacaud,27.0,327.0,26.0,2013.0,172.0,72.0,"Curepipe, Mauritius","Right-Handed, Two-Handed Backhand",,FRA
+175,Otto Virtanen,21.0,321.0,23.0,,180.0,75.0,Hyvinkää,"Right-Handed, Two-Handed Backhand",Pasi Virtanen,FIN
+176,Facundo Mena,30.0,321.0,27.0,,178.0,72.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Cristobal Saavedra,ARG
+177,Juan Pablo Ficovich,25.0,321.0,31.0,2015.0,172.0,75.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Juan Pablo Gandara,ARG
+178,Emilio Nava,21.0,320.0,25.0,2018.0,174.0,73.0,"Woodland Hills, CA, USA","Right-Handed, Two-Handed Backhand",Oscar Martinez,USA
+179,Benoit Paire,33.0,317.0,28.0,2007.0,176.0,77.0,"Avignon, France","Right-Handed, Two-Handed Backhand",Dave Marshall,FRA
+180,Dennis Novak,29.0,316.0,24.0,2011.0,178.0,72.0,"Wiener Neustadt, Austria","Right-Handed, Two-Handed Backhand",Gunter Bresnik,AUT
+181,Andrea Pellegrino,25.0,316.0,25.0,2016.0,179.0,73.0,Bisceglie,"Right-Handed, Two-Handed Backhand",Giovanni Galuppo,ITA
+182,Renzo Olivo,30.0,315.0,26.0,2009.0,160.0,70.0,"Rosario, Argentina","Right-Handed, Two-Handed Backhand","Javier Nalbandian, Franco Squillari",ARG
+183,Antoine Bellier,26.0,309.0,28.0,2014.0,184.0,77.0,"Geneva, Switzerland","Left-Handed, One-Handed Backhand",Jean-Rene Lisnard,SUI
+184,Tung-Lin Wu,24.0,307.0,21.0,2016.0,179.0,74.0,"Taichung, Chinese Taipei","Right-Handed, Two-Handed Backhand","Tsai Chia Yen, Ezra Stump",TPE
+185,Oleksii Krutykh,22.0,307.0,27.0,,173.0,73.0,Kiev,"Right-Handed, Two-Handed Backhand",,UKR
+186,Damir Dzumhur,30.0,304.0,23.0,2011.0,150.0,69.0,"Sarajevo, Bosnia-Herzegovina","Right-Handed, Two-Handed Backhand",Ivan Dugandzic,BIH
+187,Riccardo Bonadio,29.0,301.0,31.0,,173.0,71.0,"San Vito al Tagliamento, Italy","Right-Handed, One-Handed Backhand","Mattia Livraghi, Uros Vico, Marco Cassiani",ITA
+188,Mikhail Kukushkin,35.0,300.0,22.0,2006.0,159.0,72.0,"Volgograd, Russia","Right-Handed, Two-Handed Backhand",,KAZ
+189,Adrian Andreev,21.0,296.0,24.0,2016.0,145.0,71.0,"Sofia, Bulgaria","Right-Handed, Two-Handed Backhand",,BUL
+190,Santiago Rodriguez Taverna,23.0,291.0,26.0,2016.0,181.0,75.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Guillermo Franco,ARG
+191,Facundo Diaz Acosta,22.0,291.0,20.0,2018.0,165.0,72.0,"Buenos Aires, Argentina","Left-Handed, Two-Handed Backhand","Mariano Monachesi, Mariano Hood",ARG
+192,Juncheng  Shang,17.0,289.0,22.0,2021.0,162.0,71.0,"Beijing, China","Left-Handed, Two-Handed Backhand",,CHN
+193,Sebastian Ofner,26.0,288.0,18.0,2015.0,179.0,75.0,"Bruck an der Mur, Austria","Right-Handed, Two-Handed Backhand","Stefan Rettl, Wolfgang Thiem",AUT
+194,Raul Brancaccio,25.0,287.0,24.0,,162.0,73.0,"Torre del Greco, Italy","Right-Handed, Two-Handed Backhand",Ciro Figaro,ITA
+195,Nicolas Kicker,30.0,282.0,23.0,2009.0,165.0,70.0,"Merlo, Argentina","Right-Handed, One-Handed Backhand",Juan Pablo Brzezicki,ARG
+196,Dimitar Kuzmanov,29.0,282.0,24.0,2009.0,170.0,72.0,"Plovdiv, Bulgaria","Right-Handed, Two-Handed Backhand",Stefan Rangelov,BUL
+197,Kaichi Uchida,28.0,282.0,32.0,2012.0,,71.0,,"Right-Handed, Two-Handed Backhand",Norberto Valsecchi,JPN
+198,Stefan Kozlov,24.0,280.0,24.0,2013.0,174.0,72.0,"Skopje, Macedonia","Right-Handed, Two-Handed Backhand",Andrei Kozlov,USA
+199,Dominik Koepfer,28.0,279.0,14.0,2016.0,175.0,71.0,"Furtwangen, Germany","Left-Handed, Two-Handed Backhand","Rhyne Williams, Billy Heiser",GER
+200,Francesco Maestrelli,20.0,279.0,23.0,2020.0,172.0,77.0,"Pisa, Italy","Right-Handed, Two-Handed Backhand",Gabrio Castrichella,ITA
+201,Frederico Ferreira Silva,27.0,275.0,24.0,2013.0,163.0,70.0,"Caldas da Rainha, Portugal","Left-Handed, Two-Handed Backhand",Pedro Felner,POR
+202,Nick Hardt,22.0,271.0,24.0,,185.0,72.0,Santiago De Los Caballeros,"Right-Handed, Two-Handed Backhand",IMG Academy,DOM
+203,Cedrik-Marcel Stebe,32.0,270.0,22.0,2010.0,154.0,71.0,"Muehlacker, Germany","Left-Handed, Two-Handed Backhand",Eddy Kranjcevic,GER
+204,Laurent Lokoli,28.0,269.0,25.0,,171.0,74.0,"Bastia, France","Right-Handed, Two-Handed Backhand",Walter Grunfeld Tennis Academy (WGTA),FRA
+205,Antoine Escoffier,30.0,268.0,29.0,,173.0,73.0,Le Pont-De-Beauvoisin,"Right-Handed, Two-Handed Backhand",,FRA
+206,Luciano Darderi,20.0,266.0,24.0,,180.0,72.0,Villa Gesell,"Right-Handed, Two-Handed Backhand",Luciano Enrique Darderi,ITA
+207,Alexis Galarneau,23.0,265.0,24.0,,175.0,71.0,"Laval, Canada","Right-Handed, Two-Handed Backhand",Yannick Dumas,CAN
+208,Rio Noguchi,24.0,265.0,25.0,,138.0,66.0,"Fukuoka, Japan","Right-Handed, Two-Handed Backhand",Hiroyuki Kojima,JPN
+209,Evan Furness,24.0,265.0,26.0,,145.0,68.0,"Pontivy, France","Right-Handed, Two-Handed Backhand",Glenn Le Flochmoen,FRA
+210,Li Tu,26.0,264.0,25.0,,182.0,71.0,Adelaide,"Right-Handed, One-Handed Backhand",,AUS
+211,Matheus Pucinelli De Almeida,21.0,263.0,24.0,,165.0,72.0,"Campinas, Brazil","Right-Handed, Two-Handed Backhand",Danilo Ferraz,BRA
+212,Gianluca Mager,28.0,262.0,25.0,2013.0,170.0,74.0,"Sanremo, Italy","Right-Handed, Two-Handed Backhand","Matteo Civarolo, Flavio Cipolla",ITA
+213,Andrea Vavassori,27.0,262.0,18.0,2014.0,176.0,75.0,"Torino, Italy","Right-Handed, One-Handed Backhand",Davide Vavassori,ITA
+214,Mitchell Krueger,28.0,258.0,24.0,2012.0,180.0,74.0,"Fort Worth, TX, USA","Right-Handed, Two-Handed Backhand",Dave Licker,USA
+215,Nicolas Moreno De Alboran,25.0,257.0,20.0,,180.0,73.0,New York City,"Right-Handed, Two-Handed Backhand",Glenn Kuma-Mintah,USA
+216,Lukas Rosol,37.0,256.0,28.0,2004.0,182.0,76.0,"Brno, Czech Republic","Right-Handed, Two-Handed Backhand",Hynek Fromel,CZE
+217,Brandon Holt,24.0,255.0,24.0,2020.0,180.0,73.0,"Rolling Hills, CA, USA","Right-Handed, Two-Handed Backhand",,USA
+218,Kimmer Coppejans,28.0,254.0,26.0,2012.0,150.0,71.0,"Oostende, Belgium","Right-Handed, Two-Handed Backhand","Michael Lynch, Carl Maes",BEL
+219,Paul Jubb,23.0,253.0,25.0,2020.0,153.0,71.0,"York, England","Right-Handed, Two-Handed Backhand",,GBR
+220,Max Purcell,24.0,252.0,19.0,2016.0,176.0,73.0,"Sydney, Australia","Right-Handed, Two-Handed Backhand",Nathan Healey,AUS
+221,Yu Hsiou Hsu,23.0,250.0,28.0,,154.0,70.0,Changhwa,"Right-Handed, Two-Handed Backhand",,TPE
+222,Dalibor Svrcina,20.0,249.0,22.0,,151.0,70.0,Ostrava,"Right-Handed, Two-Handed Backhand",Jan Masik,CZE
+223,Marco Trungelliti,32.0,247.0,15.0,2008.0,176.0,70.0,"Santiago del Estero, Argentina","Right-Handed, Two-Handed Backhand","Albert Portas, Jean-Baptiste Poux",ARG
+224,Genaro Alberto Olivieri,24.0,246.0,28.0,,161.0,69.0,Bragado,"Right-Handed, Two-Handed Backhand",Luciano Carluccio,ARG
+225,Thiago Agustin Tirante,21.0,244.0,27.0,2016.0,176.0,74.0,"La Plata, Argentina","Right-Handed, Two-Handed Backhand",Javier Nalbandian,ARG
+226,Ernesto Escobedo,26.0,243.0,25.0,2014.0,180.0,73.0,"Los Angeles, CA, USA","Right-Handed, Two-Handed Backhand",,USA
+227,Gabriel Diallo,21.0,242.0,11.0,,198.0,79.0,Montreal,"Right-Handed, Two-Handed Backhand",,CAN
+228,Omar Jasika,25.0,242.0,27.0,,132.0,72.0,"Melbourne Victoria, Australia","Left-Handed, Two-Handed Backhand",Admir Jasika -Mitch,AUS
+229,Nicholas David Ionel,20.0,240.0,34.0,,160.0,73.0,Bucharest,"Right-Handed, Two-Handed Backhand",Andrei Pavel,ROU
+230,Tomas Barrios Vera,25.0,239.0,14.0,2019.0,194.0,75.0,"Chillan, Chile","Right-Handed, Two-Handed Backhand",Guillermo Gomez,CHI
+231,Nikola Milojevic,27.0,239.0,26.0,2013.0,168.0,74.0,"Belgrade, Serbia","Right-Handed, Two-Handed Backhand",Nikola Ciric,SRB
+232,Gastao Elias,32.0,239.0,25.0,2008.0,167.0,71.0,"Lourinha, Portugal","Right-Handed, Two-Handed Backhand",Luis Guilherme Balboa,POR
+233,Miljan Zekic,34.0,239.0,27.0,,174.0,73.0,"Belgrade, Serbia","Right-Handed, Two-Handed Backhand",Slobodan Vojinovic,SRB
+234,Nino Serdarusic,26.0,238.0,28.0,2014.0,187.0,75.0,"Zagreb, Croatia","Right-Handed, Two-Handed Backhand",Filip Serdarusic,CRO
+235,Peter Gojowczyk,33.0,236.0,19.0,2006.0,183.0,74.0,"Munich, Germany","Right-Handed, Two-Handed Backhand",Kristoffer Schimpf,GER
+236,Altug Celikbilek,26.0,236.0,26.0,2015.0,162.0,72.0,"Antalya, Turkey","Right-Handed, Two-Handed Backhand",Tobias Hinzmann,TUR
+237,Lloyd Harris,25.0,230.0,14.0,2015.0,176.0,76.0,"Cape Town, South Africa","Right-Handed, Two-Handed Backhand",Anthony Harris,RSA
+238,Roman Andres Burruchaga,20.0,229.0,30.0,,176.0,,"Buenos Aires, Argentina","Right-Handed, Unknown Backhand",Mariano Hood,ARG
+239,Skander Mansouri,27.0,227.0,36.0,,189.0,76.0,"Tunis, Tunisia","Right-Handed, Two-Handed Backhand",Bresky Tony,TUN
+240,Jay Clarke,24.0,226.0,22.0,2016.0,184.0,72.0,"Derby, England","Right-Handed, Two-Handed Backhand",Ariana Saki,GBR
+241,Nerman Fatic,28.0,226.0,26.0,2014.0,193.0,75.0,"Sarajevo, Bosnia & Herzegovina","Right-Handed, Two-Handed Backhand",Patricio Remondegui,BIH
+242,Ivan Gakhov,26.0,224.0,31.0,,182.0,75.0,"Moscow, Russia","Left-Handed, Two-Handed Backhand","Miguel Sánchez, Salvador Navarro",
+243,Mariano Navone,21.0,222.0,22.0,,,,,,,ARG
+244,Nam Hoang Ly,25.0,221.0,22.0,,152.0,69.0,"Ho Chi Minh, Vietnam","Right-Handed, Two-Handed Backhand",Christian Brydniak,VIE
+245,Kacper Zuk,23.0,220.0,25.0,2016.0,169.0,72.0,"Nowy Dwor Mazowiecki, Poland","Right-Handed, Two-Handed Backhand",Artur Zuk,POL
+246,Andrea Collarini,30.0,220.0,27.0,2010.0,171.0,72.0,"New York, NY, USA","Left-Handed, Two-Handed Backhand",Juan Martin Aranguren,ARG
+247,Zdenek Kolar,26.0,218.0,30.0,2014.0,174.0,72.0,"Bystrice nad Pernstejnem, CZE","Right-Handed, Two-Handed Backhand",Zdenek Kolar Sr.,CZE
+248,Jan Choinski,26.0,218.0,23.0,,193.0,77.0,"Koblenz, Germany","Right-Handed, Two-Handed Backhand","Andrzej Choinski, Pawel Strauss",GBR
+249,Dane Sweeny,21.0,217.0,31.0,,138.0,67.0,Penrith,"Right-Handed, Two-Handed Backhand",Clay Sweeny,AUS
+250,Matteo Gigante,20.0,214.0,21.0,,136.0,70.0,Rome,"Left-Handed, Two-Handed Backhand",,ITA
+251,Arthur Fils,18.0,213.0,23.0,,182.0,73.0,France,"Right-Handed, Two-Handed Backhand",Laurent Raymond,FRA
+252,Seong-chan Hong,25.0,212.0,17.0,,143.0,69.0,Gangwonto,"Right-Handed, Two-Handed Backhand",,KOR
+253,Juan Bautista Torres,20.0,212.0,25.0,,162.0,70.0,Buenos Aires,"Right-Handed, Two-Handed Backhand",Mauro Aprile,ARG
+254,Michael Geerts,27.0,212.0,33.0,,158.0,70.0,"Antwerp, Belgium","Right-Handed, Two-Handed Backhand",Fred Hemmes,BEL
+255,Hamad Medjedovic,19.0,211.0,24.0,,184.0,73.0,"Novi Pazar, Serbia","Right-Handed, Two-Handed Backhand",Boris Pashanski,SRB
+256,Harold Mayot,20.0,211.0,31.0,2020.0,171.0,70.0,"Metz, France","Right-Handed, Two-Handed Backhand",Thierry Tulasne,FRA
+257,Hernan Casanova,28.0,208.0,25.0,,168.0,70.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand","Jorge Bernard, Juan Martin Aranguren",ARG
+258,Robin Haase,35.0,207.0,23.0,2005.0,170.0,75.0,"The Hague, The Netherlands","Right-Handed, Two-Handed Backhand",Raymond Knaap,NED
+259,Nicolas Mejia,22.0,207.0,31.0,2019.0,175.0,72.0,"Bogota, Colombia","Right-Handed, Two-Handed Backhand","Juan Mateus, Ivan Molina, Juan Pablo Sánchez",COL
+260,Daniel Michalski,22.0,204.0,26.0,2018.0,169.0,71.0,"Warsaw, Poland","Right-Handed, Two-Handed Backhand",Roman Michalski,POL
+261,Gonzalo Lama,29.0,202.0,29.0,2011.0,181.0,71.0,"Santiago, Chile","Right-Handed, Two-Handed Backhand",Cristobal Saavedra,CHI
+262,Alessandro Giannessi,32.0,201.0,23.0,2008.0,180.0,73.0,"La Spezia, Italy","Left-Handed, Two-Handed Backhand",Flavio Cipolla,ITA
+263,Jonas Forejtek,21.0,200.0,20.0,,165.0,72.0,Pilsen,"Right-Handed, Two-Handed Backhand",Slava Dosedel,CZE
+264,Sho Shimabukuro,25.0,199.0,21.0,,165.0,72.0,"Gifu, Japan","Right-Handed, Two-Handed Backhand",,JPN
+265,Tennys Sandgren,31.0,198.0,22.0,2011.0,195.0,74.0,"Gallatin, TN, USA","Right-Handed, Two-Handed Backhand",,USA
+266,Alastair Gray,24.0,198.0,26.0,,184.0,76.0,"Twickenham, England","Right-Handed, One-Handed Backhand",Mark Taylor,GBR
+267,Nikolas Sanchez Izquierdo,23.0,196.0,25.0,,169.0,73.0,Barcelona,"Right-Handed, Two-Handed Backhand",,ESP
+268,Oriol Roca Batalla,29.0,195.0,24.0,,165.0,68.0,Barcelona,"Right-Handed, One-Handed Backhand","Joan Balcells, David Olles",ESP
+269,Pablo Cuevas,37.0,193.0,12.0,2004.0,173.0,71.0,"Concordia, Argentina","Right-Handed, One-Handed Backhand",Facundo Savio,URU
+270,Hiroki Moriya,32.0,191.0,26.0,,143.0,66.0,"Tokyo, Japan","Right-Handed, Two-Handed Backhand","Oscar Hernandez, Bruno Alcala",JPN
+271,Francisco Comesana,22.0,190.0,20.0,,151.0,70.0,Mar del Palta,"Right-Handed, Two-Handed Backhand",Facundo Argüello,ARG
+272,Steven Diez,31.0,190.0,23.0,2009.0,165.0,69.0,"Toronto, Canada","Right-Handed, Two-Handed Backhand",Marcos Roy,CAN
+273,Aziz Dougaz,25.0,190.0,29.0,2020.0,180.0,74.0,"La Marsa, Tunisia","Left-Handed, Two-Handed Backhand",,TUN
+274,Maximilian Neuchrist,31.0,189.0,22.0,,,,,"Right-Handed, Two-Handed Backhand",,AUT
+275,Mate Valkusz,24.0,188.0,13.0,,165.0,72.0,"Budapest, Hungary","Right-Handed, Two-Handed Backhand",Zoltan Kuharszky,HUN
+276,Juan Ignacio Londero,29.0,186.0,8.0,2010.0,154.0,71.0,"Jesus Maria, Argentina","Right-Handed, Two-Handed Backhand",Andres Schneiter,ARG
+277,Bu Yunchaokete,20.0,186.0,32.0,,176.0,72.0,Hangzhou,"Right-Handed, Two-Handed Backhand",,CHN
+278,Egor Gerasimov,30.0,185.0,12.0,2010.0,190.0,77.0,"Minsk, Belarus","Right-Handed, Two-Handed Backhand",,
+279,Timo Stodder,26.0,185.0,26.0,,160.0,71.0,Berlin,"Right-Handed, Unknown Backhand",,GER
+280,Raphael Collignon,20.0,184.0,24.0,,189.0,75.0,"Rochester,Olmsted","Right-Handed, Two-Handed Backhand",Steve Darcis,BEL
+281,Lorenzo Giustino,31.0,184.0,31.0,2007.0,176.0,71.0,"Naples, Italy","Right-Handed, Two-Handed Backhand",Jose Maria Diaz,ITA
+282,Marek Gengel,27.0,183.0,24.0,,177.0,73.0,"Rakovnik, Czech Republic","Right-Handed, Two-Handed Backhand",Ivan Gengel,CZE
+283,Lucas Gerch,28.0,183.0,27.0,,189.0,76.0,Berlin,"Left-Handed, Unknown Backhand",,GER
+284,Nicolas Alvarez Varona,21.0,181.0,29.0,,182.0,74.0,Burgos,"Right-Handed, Two-Handed Backhand",Cristiano de Oliveira Pinto,ESP
+285,Dan Added,23.0,181.0,29.0,,158.0,72.0,"Strasbourg, France","Right-Handed, Unknown Backhand",,FRA
+286,Titouan Droguet,21.0,180.0,26.0,,176.0,75.0,Villeneuve saint Georges,"Right-Handed, Two-Handed Backhand",marc michaudel,FRA
+287,Joao Domingues,29.0,179.0,26.0,2013.0,154.0,,"Oliveira de Azemeis, Portugal","Right-Handed, Two-Handed Backhand","Joao Antunes, Andre Podalka",POR
+288,Jesper de Jong,22.0,179.0,26.0,,154.0,71.0,Haarlem,"Right-Handed, Two-Handed Backhand",Bas Coulier,NED
+289,Daniel Masur,28.0,178.0,22.0,2013.0,172.0,72.0,"Bueckeburg, Germany","Right-Handed, Two-Handed Backhand",Lars Uebel,GER
+290,Valentin Vacherot,24.0,178.0,23.0,,184.0,76.0,Monaco,"Right-Handed, Two-Handed Backhand",Benjamin Balleret,MON
+291,Evan Zhu,24.0,178.0,28.0,,165.0,73.0,"Ann Arbor, MI, USA","Right-Handed, Two-Handed Backhand","Chris Begg, Shariq Khan",USA
+292,Denis Yevseyev,29.0,177.0,26.0,,178.0,73.0,Almaty,"Right-Handed, Two-Handed Backhand",,KAZ
+293,Pol Martin Tiffon,23.0,176.0,21.0,,160.0,72.0,Barcelona,"Right-Handed, Two-Handed Backhand",Josep Mª Arenas,ESP
+294,Salvatore Caruso,30.0,175.0,20.0,2010.0,176.0,73.0,"Avola, Italy","Right-Handed, Two-Handed Backhand",Paolo Cannova,ITA
+295,Ugo Blanchet,23.0,175.0,23.0,,149.0,69.0,Saint-julien-en-genevois,"Right-Handed, Two-Handed Backhand",,FRA
+296,Lukas Neumayer,20.0,175.0,25.0,2021.0,154.0,72.0,"Salzburg, Austria","Right-Handed, Two-Handed Backhand","Gerald Kamitz, Gunther Bresnik",AUT
+297,Alexandar Lazarov,25.0,173.0,20.0,2016.0,185.0,75.0,"Miami, FL, USA","Right-Handed, One-Handed Backhand",Krassimir Lazarov,BUL
+298,Javier Barranco Cosano,24.0,173.0,21.0,,154.0,70.0,"Almeria, Spain","Left-Handed, Two-Handed Backhand",Juan Pablo Cañas,ESP
+299,Terence Atmane,20.0,173.0,32.0,,176.0,76.0,Boulogne-Sur-Mer,"Left-Handed, Two-Handed Backhand",boule robin,FRA
+300,Daniel Dutra da Silva,34.0,172.0,32.0,2007.0,165.0,68.0,"Parelheiros , Brazil","Left-Handed, Two-Handed Backhand","Luiz Peniza, Patricio Arnold, Caio Martins Claudino",BRA
+301,Zachary Svajda,20.0,171.0,18.0,2019.0,145.0,69.0,"La Jolla, CA, USA","Right-Handed, Two-Handed Backhand",David Nainkin,USA
+302,Mats Moraing,30.0,170.0,21.0,2013.0,185.0,78.0,"Mulheim an der Ruhr, Germany","Left-Handed, Two-Handed Backhand",Peter Moraing,GER
+303,Benjamin Hassan,27.0,170.0,21.0,,187.0,72.0,"Merzig, Germany","Right-Handed, Two-Handed Backhand",Dominik Meffert,LIB
+304,Filip Cristian Jianu,21.0,167.0,31.0,,171.0,71.0,Bucharest,"Right-Handed, Two-Handed Backhand",----------,ROU
+305,Pierre-Hugues Herbert,31.0,166.0,13.0,2010.0,165.0,74.0,"Schiltigheim, France","Right-Handed, Two-Handed Backhand",Jean Roch Herbert,FRA
+306,Roberto Quiroz,30.0,166.0,28.0,2014.0,193.0,76.0,"Guayaquil, Ecuador","Left-Handed, Two-Handed Backhand","Juan Mateus, Pablo Quiroz",ECU
+307,Ernests Gulbis,34.0,165.0,16.0,2004.0,187.0,75.0,"Riga, Latvia","Right-Handed, Two-Handed Backhand",Pjotrs Necajevs,LAT
+308,Beibit Zhukayev,22.0,165.0,25.0,,202.0,77.0,Aktau,"Right-Handed, Two-Handed Backhand",,KAZ
+309,Louis Wessels,24.0,165.0,30.0,,198.0,78.0,"Bielefeld, Germany","Right-Handed, Two-Handed Backhand",Dirk Wessels,GER
+310,Stefano Travaglia,31.0,164.0,22.0,2008.0,176.0,73.0,"Ascoli Piceno, Italy","Right-Handed, Two-Handed Backhand","Fabio Gorietti, Riccardo Maiga",ITA
+311,Gonzalo Villanueva,27.0,164.0,30.0,,154.0,69.0,"Parana, Argentina","Right-Handed, Two-Handed Backhand",,ARG
+312,Gian Marco Moroni,24.0,162.0,23.0,2018.0,179.0,73.0,"Rome, Italy","Right-Handed, One-Handed Backhand","Federico Torresi, Fabio Gorietti",ITA
+313,Evgeny Karlovskiy,28.0,162.0,25.0,2012.0,190.0,75.0,"Moscow, Russia","Right-Handed, Two-Handed Backhand",,
+314,Alejandro Moro Canas,22.0,161.0,18.0,,171.0,72.0,Madrid,"Right-Handed, Two-Handed Backhand",David Flores,ESP
+315,Joao Lucas Reis Da Silva,22.0,161.0,22.0,,165.0,70.0,"Recife, Pernambuco","Right-Handed, Two-Handed Backhand",Arthur Rabelo,BRA
+316,Bjorn Fratangelo,29.0,160.0,12.0,2012.0,175.0,72.0,"Pittsburgh, PA, USA","Right-Handed, Two-Handed Backhand",Eric Nunez,USA
+317,Thomas Fabbiano,33.0,159.0,18.0,2005.0,154.0,68.0,"Grottaglie, Italy","Right-Handed, Two-Handed Backhand",,ITA
+318,Ulises Blanch,24.0,159.0,22.0,2016.0,172.0,74.0,San Juan,"Right-Handed, Two-Handed Backhand",Fran Martinez,USA
+319,Shintaro Mochizuki,19.0,159.0,25.0,,154.0,,"Kawasaki, Japan","Right-Handed, Two-Handed Backhand",,JPN
+320,Yasutaka Uchiyama,30.0,158.0,21.0,2011.0,172.0,72.0,"Sapporo, Japan","Right-Handed, Two-Handed Backhand",Kentaro Masuda,JPN
+321,Clement Tabur,22.0,158.0,23.0,,160.0,68.0,REIMS,"Right-Handed, Two-Handed Backhand",Olivier Malcor,FRA
+322,Oliver Crawford,23.0,158.0,26.0,2020.0,185.0,71.0,"Spartanburg, SC, USA","Right-Handed, Two-Handed Backhand",Nick Bybel,USA
+323,Gabriel Decamps,23.0,158.0,27.0,,176.0,73.0,"Sao Paulo, Brazil","Right-Handed, Two-Handed Backhand",William Kyriakos,BRA
+324,Alexey Vatutin,30.0,158.0,29.0,,152.0,70.0,"Volgograd, Russia","Right-Handed, Two-Handed Backhand","Yuriy Kozlovich, Eduard Davydenko, Andrei Gorban",
+325,Nicolas Alvarez,26.0,157.0,21.0,,176.0,73.0,"Quito, Ecuador","Right-Handed, Two-Handed Backhand",,PER
+326,Elmar Ejupovic,29.0,157.0,22.0,,198.0,76.0,"Wolfsburg, Germany","Right-Handed, One-Handed Backhand",Manuel Gasbarri,GER
+327,Murkel Dellien,25.0,156.0,26.0,,184.0,76.0,Trinidad,"Right-Handed, Two-Handed Backhand",,BOL
+328,Sam Querrey,35.0,152.0,10.0,2006.0,209.0,78.0,"San Francisco, CA, USA","Right-Handed, Two-Handed Backhand",Scott Doerner,USA
+329,Dmitry Popko,26.0,152.0,25.0,2011.0,192.0,75.0,"St. Petersburg, Russia","Right-Handed, Two-Handed Backhand",Ilya Drozdov,KAZ
+330,Max Houkes,22.0,150.0,23.0,,171.0,74.0,Emmen,"Left-Handed, Two-Handed Backhand",Colin van Beem,NED
+331,Dragos Nicolae Madaras,25.0,150.0,25.0,,187.0,75.0,"Deva, Romania","Left-Handed, Two-Handed Backhand",,SWE
+332,Valentin Royer,21.0,150.0,25.0,,189.0,74.0,Neuilly-sur-Seine,"Right-Handed, Two-Handed Backhand",Julien Gillet,FRA
+333,Rudolf Molleker,22.0,150.0,27.0,2017.0,165.0,73.0,"Severodonetsk, Ukraine","Right-Handed, Two-Handed Backhand","Roman Molleker, Benjamin Thiele",GER
+334,Marc Polmans,25.0,149.0,11.0,2015.0,172.0,74.0,"Amanzimtoti, South Africa","Right-Handed, Two-Handed Backhand",Greg Polmans,AUS
+335,Yunseong Chung,24.0,149.0,21.0,2017.0,171.0,70.0,"Seoul, South Korea","Right-Handed, Two-Handed Backhand",Jean-Luc Fontanot,KOR
+336,Alibek Kachmazov,20.0,149.0,24.0,,173.0,73.0,"Vladikavkaz, North-Ossetia","Right-Handed, Unknown Backhand",,
+337,Vitaliy Sachko,25.0,149.0,27.0,,162.0,74.0,"Kremenchuk, Ukraine","Right-Handed, Two-Handed Backhand",,UKR
+338,Carlos Lopez Montagud,22.0,148.0,23.0,,169.0,71.0,Algemesi,"Right-Handed, Two-Handed Backhand",,ESP
+339,Gauthier Onclin,21.0,148.0,30.0,,169.0,71.0,Liège,"Right-Handed, Two-Handed Backhand",Steve Darcis,BEL
+340,Mukund Sasikumar,25.0,146.0,29.0,,173.0,73.0,"Chennai, India","Right-Handed, Two-Handed Backhand",Martin Spottel,IND
+341,Joris De Loore,29.0,145.0,21.0,2011.0,190.0,75.0,"Bruges, Belgium","Right-Handed, Two-Handed Backhand",Bastian Suwanprateep,BEL
+342,Andrea Arnaboldi,35.0,144.0,22.0,2006.0,158.0,71.0,"Milan, Italy","Left-Handed, One-Handed Backhand",Stefano Viganò,ITA
+343,Viktor Durasovic,25.0,143.0,23.0,2016.0,176.0,73.0,"Orkdal, Norway","Right-Handed, Two-Handed Backhand",Fredrik Loven,NOR
+344,Maxime Janvier,26.0,143.0,25.0,2014.0,187.0,77.0,"Creil, France","Right-Handed, Two-Handed Backhand",Olivier Bardeau,FRA
+345,Christian Harrison,28.0,141.0,12.0,2007.0,170.0,71.0,"Shreveport, LA, USA","Right-Handed, Two-Handed Backhand",Pat Harrison,USA
+346,Filip Horansky,29.0,141.0,22.0,2012.0,170.0,75.0,"Piestany, Slovakia","Right-Handed, Two-Handed Backhand",Karol Kucera,SVK
+347,Aljaz Bedene,33.0,140.0,9.0,2008.0,161.0,72.0,"Ljubljana, Slovenia","Right-Handed, Two-Handed Backhand","Andraz Bedene, Miha Mlakar",SLO
+348,Prajnesh Gunneswaran,33.0,140.0,24.0,2010.0,176.0,74.0,"Chennai, India","Left-Handed, Two-Handed Backhand",Bastian Suwanprateeep,IND
+349,Pedro Boscardin Dias,19.0,139.0,24.0,,165.0,71.0,"Joinville, Brazil","Right-Handed, Two-Handed Backhand",,BRA
+350,Kenny De Schepper,35.0,139.0,26.0,2010.0,220.0,80.0,"Bordeaux, France","Left-Handed, One-Handed Backhand",Henri Fabrega,FRA
+351,Alexander Weis,25.0,139.0,27.0,,182.0,74.0,"Bolzano, Italy","Right-Handed, Two-Handed Backhand",,ITA
+352,Pablo Llamas Ruiz,20.0,137.0,21.0,,176.0,74.0,Jerez de la frontera,"Right-Handed, Two-Handed Backhand",Agustin Boje- Jp Cañas,ESP
+353,Giovanni Oradini,25.0,136.0,29.0,,187.0,74.0,Rovereto,"Left-Handed, Unknown Backhand",,ITA
+354,Andreas Seppi,38.0,135.0,14.0,2002.0,172.0,75.0,"Bolzano, Italy","Right-Handed, Two-Handed Backhand",Massimo Sartori,ITA
+355,Billy Harris,27.0,135.0,31.0,,189.0,76.0,Nottingham,"Right-Handed, Two-Handed Backhand",Joserra Blasco,GBR
+356,Remy Bertola,24.0,134.0,24.0,,165.0,69.0,Lugano,"Right-Handed, One-Handed Backhand","Fabio Chiappini, Marco Brigo",SUI
+357,Henri Squire,22.0,133.0,25.0,,180.0,77.0,Duisburg,"Right-Handed, Two-Handed Backhand",Andy Fitzell,GER
+358,Daniel Cukierman,27.0,132.0,24.0,,154.0,,"Tel Aviv, Israel","Right-Handed, Two-Handed Backhand",,ISR
+359,Michael Vrbensky,23.0,132.0,27.0,,,,"Nymburk, Czech Republic","Right-Handed, Two-Handed Backhand",Dusan Karol,CZE
+360,Antoine Hoang,27.0,131.0,25.0,2016.0,168.0,72.0,"Hyeres, France","Right-Handed, Two-Handed Backhand",Lionel Zimbler,FRA
+361,Mathys Erhard,21.0,131.0,25.0,,180.0,74.0,Toulouse,"Right-Handed, Two-Handed Backhand",Thierry Guardiola,FRA
+362,Sergey Fomin,21.0,130.0,19.0,,,71.0,"Tashkent, Uzbekistan","Right-Handed, Two-Handed Backhand",Duldaev Daniiar,UZB
+363,Filip Peliwo,28.0,130.0,28.0,2013.0,167.0,71.0,"North Vancouver, Canada","Right-Handed, Two-Handed Backhand",Frederic Niemeyer,POL
+364,Moez Echargui,29.0,129.0,22.0,,165.0,71.0,"La Marsa, Tunisia","Right-Handed, Two-Handed Backhand",,TUN
+365,Andrew Paulson,21.0,129.0,26.0,,180.0,76.0,Prague,"Right-Handed, Two-Handed Backhand",,CZE
+366,Edoardo Lavagno,24.0,129.0,26.0,,165.0,,Turin,"Left-Handed, Two-Handed Backhand",c,ITA
+367,Tristan Schoolkate,21.0,128.0,26.0,,191.0,72.0,Perth,"Right-Handed, Unknown Backhand",Andrew Roberts,AUS
+368,Benjamin Lock,29.0,128.0,30.0,,190.0,78.0,"Harare, Zimbabwe","Right-Handed, Two-Handed Backhand","Ryler Deheart, Dwayne Hultquist, Nick Crowell",ZIM
+369,Andrey Chepelev,24.0,128.0,34.0,,169.0,71.0,Moscow,"Left-Handed, Two-Handed Backhand",,
+370,Giovanni Mpetshi Perricard,19.0,127.0,17.0,,220.0,79.0,Lyon,"Right-Handed, One-Handed Backhand",Emmanuel Planque,FRA
+371,Alex Rybakov,25.0,127.0,22.0,2019.0,170.0,73.0,"Plainview, New York","Left-Handed, One-Handed Backhand","Devin Bowen, David Roditi",USA
+372,Aidan McHugh,22.0,127.0,26.0,,155.0,70.0,"Glasgow, Scotland","Right-Handed, One-Handed Backhand",Toby Smith,GBR
+373,Gerald Melzer,32.0,126.0,16.0,2007.0,176.0,74.0,"Vienna, Austria","Left-Handed, Two-Handed Backhand","Philipp Wessely, Jan Schellmann",AUT
+374,Marius Copil,32.0,125.0,22.0,2008.0,195.0,75.0,"Arad, Romania","Right-Handed, One-Handed Backhand",Andrei Mlendea,ROU
+375,Stuart Parker,25.0,125.0,24.0,,173.0,73.0,Port Elizabeth,"Right-Handed, Two-Handed Backhand",Thomas Enqvist,GBR
+376,Charles Broom,24.0,125.0,26.0,,180.0,70.0,St Albans,"Right-Handed, Two-Handed Backhand",,GBR
+377,Oleksandr Ovcharenko,21.0,125.0,28.0,,178.0,73.0,Kiev,"Right-Handed, Two-Handed Backhand",Vincenzo Carlone,UKR
+378,Cem Ilkel,27.0,124.0,9.0,2013.0,179.0,73.0,"Istanbul, Turkey","Right-Handed, Two-Handed Backhand",Gavin Hopper,TUR
+379,Edan Leshem,25.0,124.0,24.0,,158.0,72.0,"New York, NY, USA","Right-Handed, Two-Handed Backhand",Amos Mansdrof,ISR
+380,Lucas Pouille,28.0,122.0,14.0,2012.0,185.0,73.0,"Grande-Synthe, France","Right-Handed, Two-Handed Backhand","Thierry Ascione, Nicolas Renavand",FRA
+381,Arthur Cazaux,20.0,121.0,12.0,2020.0,162.0,72.0,"Montpellier, France","Right-Handed, Two-Handed Backhand",Stephane Huet,FRA
+382,Jason Jung,33.0,121.0,21.0,2011.0,152.0,71.0,"Torrance, CA, USA","Right-Handed, Two-Handed Backhand",Beauregard Treyz,TPE
+383,Ergi Kirkin,23.0,121.0,25.0,,165.0,71.0,"Ankara, Turkey","Right-Handed, Two-Handed Backhand",,TUR
+384,Maks Kasnikowski,19.0,120.0,20.0,,171.0,71.0,Warszawa,"Right-Handed, Two-Handed Backhand",Jakub Ulczynski,POL
+385,Alvaro Lopez San Martin,25.0,120.0,23.0,,154.0,70.0,"Barcelona, Spain","Right-Handed, Two-Handed Backhand",Javier Duarte,ESP
+386,Guido Andreozzi,31.0,119.0,4.0,2010.0,172.0,72.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Gaston Etlis,ARG
+387,Evgeny Donskoy,32.0,119.0,18.0,2007.0,165.0,73.0,"Moscow, Russia","Right-Handed, Two-Handed Backhand",,
+388,Alberto Barroso Campos,26.0,119.0,21.0,,158.0,70.0,Montijo,"Right-Handed, Two-Handed Backhand",Angel Zambrano,ESP
+389,Akira Santillan,25.0,119.0,25.0,2013.0,172.0,71.0,"Tokyo, Japan","Right-Handed, One-Handed Backhand",Marinko Matosevic,AUS
+390,Govind Nanda,21.0,118.0,21.0,,155.0,70.0,Loma linda,"Right-Handed, Two-Handed Backhand",None,USA
+391,Mirza Basic,31.0,118.0,24.0,2012.0,193.0,74.0,"Sarajevo, Bosnia-Herzegovina","Right-Handed, Two-Handed Backhand","Damir Basic, Daniel Meyers",BIH
+392,Vladyslav Orlov,27.0,117.0,22.0,,173.0,74.0,Kharkiv,"Right-Handed, Two-Handed Backhand",Elena Iudina,UKR
+393,Giovanni Fonio,24.0,116.0,27.0,,176.0,72.0,Novara,"Right-Handed, One-Handed Backhand",Matteo Sacchi,ITA
+394,Daniel Cox,32.0,115.0,20.0,2011.0,150.0,67.0,"Lincoln, Great Britain","Right-Handed, Two-Handed Backhand",Justin Revill,GBR
+395,Duje Ajdukovic,21.0,115.0,23.0,2018.0,171.0,74.0,"Split, Croatia","Right-Handed, Two-Handed Backhand",Marin Sisko,CRO
+396,Johan Nikles,25.0,114.0,17.0,,149.0,68.0,Geneva,"Right-Handed, Two-Handed Backhand",José Ferrol Garcia,SUI
+397,Yuta Shimizu,23.0,114.0,24.0,,136.0,64.0,"Konan, Japan","Left-Handed, Two-Handed Backhand",,JPN
+398,Juan Bautista Otegui,23.0,114.0,24.0,,184.0,75.0,Rauch,"Right-Handed, Two-Handed Backhand",,ARG
+399,Sebastian Fanselow,31.0,114.0,25.0,,,,,"Right-Handed, Unknown Backhand",,GER
+400,Dominik Palan,22.0,114.0,25.0,,187.0,75.0,Hodonín,"Right-Handed, Two-Handed Backhand",,CZE
+401,Cezar Cretu,21.0,114.0,26.0,,182.0,74.0,Iasi,"Right-Handed, Two-Handed Backhand",Victor Hanescu,ROU
+402,Samuel Vincent Ruggeri,20.0,113.0,28.0,,187.0,75.0,Alzano Lombardo,"Right-Handed, Two-Handed Backhand",Roberto Ruggeri,ITA
+403,Mark Lajal,19.0,112.0,22.0,,171.0,74.0,Tallinn,"Right-Handed, Two-Handed Backhand",Thomas Le Boulch,EST
+404,Kyle Seelig,25.0,112.0,25.0,,175.0,69.0,Hatfield,"Right-Handed, Two-Handed Backhand",Ty Tucker,USA
+405,Keegan Smith,24.0,111.0,20.0,,205.0,78.0,"Wilmington, NC","Right-Handed, Unknown Backhand",,USA
+406,James McCabe,19.0,111.0,24.0,,180.0,74.0,"Iba Zambales, Philippines","Right-Handed, Two-Handed Backhand",Patrick McCabe,AUS
+407,Ben Patael,25.0,111.0,24.0,,176.0,74.0,"Tel Aviv, Israel","Right-Handed, Two-Handed Backhand",,ISR
+408,Jakub Mensik,17.0,109.0,18.0,,184.0,75.0,Prostejov,"Right-Handed, Two-Handed Backhand",Tomas Josefus,CZE
+409,Jose Pereira,31.0,109.0,18.0,,163.0,71.0,"Santana do Ipanema, Brazil","Right-Handed, Two-Handed Backhand",Richard Tsukada and Renato Pereira,BRA
+410,Mathias Bourgue,28.0,109.0,19.0,,183.0,74.0,"Avignon, France","Right-Handed, Two-Handed Backhand",Marc Gicquel,FRA
+411,Jurgen Briand,23.0,109.0,20.0,,154.0,70.0,Rueil-Malmaison,"Right-Handed, Two-Handed Backhand",,FRA
+412,Illya Marchenko,35.0,108.0,20.0,2006.0,191.0,73.0,"Dneprodzerzhinsk, Ukraine","Right-Handed, Two-Handed Backhand",Filip Havaj,UKR
+413,Gianmarco Ferrari,22.0,108.0,22.0,,198.0,75.0,Prato,"Left-Handed, Two-Handed Backhand",Diego Nargiso,ITA
+414,Gustavo Heide,20.0,107.0,12.0,,160.0,74.0,Sao Paulo,"Right-Handed, Two-Handed Backhand","Haroldo Zwetsch Jr, Gesner Menegucci",BRA
+415,Matteo Martineau,23.0,107.0,22.0,,167.0,72.0,"Angers, France","Right-Handed, One-Handed Backhand",Cyril Barnier & Michael Bois,FRA
+416,Damien Wenger,22.0,107.0,22.0,,149.0,68.0,Bienne,"Right-Handed, Two-Handed Backhand",Lionel Grossenbacher,SUI
+417,Philipp Kohlschreiber,39.0,106.0,5.0,2001.0,154.0,70.0,"Augsburg, Germany","Right-Handed, One-Handed Backhand",Markus Hipfl,GER
+418,Thiago Seyboth Wild,22.0,106.0,18.0,2018.0,174.0,73.0,"Marechal Candido Rondon, BRA","Right-Handed, Two-Handed Backhand",Joao Zwetsch,BRA
+419,Carlos Sanchez Jover,22.0,106.0,22.0,,143.0,68.0,"Albacete, Spain","Left-Handed, Two-Handed Backhand",Juan Manuel Esparcia,ESP
+420,Alex Marti Pujolras,23.0,106.0,25.0,,162.0,73.0,Santa Cruz de Bezana,"Right-Handed, Two-Handed Backhand",Narcis Pelach,ESP
+421,Daniel Rincon,19.0,106.0,26.0,,187.0,73.0,Madrid,"Left-Handed, Two-Handed Backhand",,ESP
+422,Sascha Gueymard Wayenburg,19.0,105.0,21.0,,176.0,74.0,Aix-en-Provence,"Right-Handed, Two-Handed Backhand",Lionel Zimbler,FRA
+423,Matias Franco Descotte,28.0,105.0,23.0,,191.0,75.0,Buenos Aires,"Right-Handed, Two-Handed Backhand",,ARG
+424,Max Hans Rehberg,19.0,104.0,22.0,,176.0,72.0,Munich,"Right-Handed, Two-Handed Backhand",Benjamin Benedikter,GER
+425,Eduardo Ribeiro,24.0,104.0,22.0,,165.0,70.0,Santa Cruz do Sul,"Right-Handed, Two-Handed Backhand",,BRA
+426,Federico Gaio,30.0,104.0,24.0,2009.0,182.0,70.0,"Faenza, Italy","Right-Handed, One-Handed Backhand",Fabio Filippo Colangelo,ITA
+427,Juan Pablo Paz,27.0,104.0,27.0,,,67.0,,"Right-Handed, Two-Handed Backhand",Marcelo Garcia - Daniel Paz,ARG
+428,Facundo Juarez,25.0,103.0,21.0,,158.0,71.0,Mendoza,"Right-Handed, Two-Handed Backhand",Leonardo Olguín,ITA
+429,Jerome Kym,19.0,102.0,18.0,2019.0,192.0,78.0,"Rheinfelden, Switzerland","Right-Handed, Two-Handed Backhand",Markus Hipfl,SUI
+430,Omni Kumar,21.0,102.0,31.0,,150.0,69.0,"Mountain View, CA, USA","Left-Handed, Unknown Backhand",Puneet Kumar,USA
+431,Adrian Menendez-Maceiras,37.0,100.0,11.0,2005.0,165.0,72.0,"Marbella, Spain","Right-Handed, Two-Handed Backhand",Isaac Galindo,ESP
+432,Adam Walton,23.0,99.0,15.0,,170.0,72.0,Brisbane,"Right-Handed, Two-Handed Backhand",,AUS
+433,Alafia Ayeni,23.0,99.0,17.0,,180.0,75.0,Walnut Creek,"Right-Handed, Unknown Backhand",A. Ayeni,USA
+434,Malek Jaziri,38.0,99.0,23.0,2003.0,182.0,73.0,"Bizerte, Tunisia","Right-Handed, Two-Handed Backhand",Dejan Petrovic,TUN
+435,Ramkumar Ramanathan,28.0,98.0,23.0,2009.0,178.0,74.0,"Chennai, India","Right-Handed, Two-Handed Backhand","Juan Balcells,Emilio Sanchez Viccario",IND
+436,Oscar Jose Gutierrez,29.0,97.0,21.0,,148.0,67.0,"Canoas, Brazil","Right-Handed, Two-Handed Backhand",JosT Gutierrez,BRA
+437,Strong Kirchheimer,27.0,97.0,25.0,,175.0,73.0,"Highland Park, Illinois","Right-Handed, Unknown Backhand",,USA
+438,Wilson Leite,31.0,96.0,25.0,2008.0,158.0,70.0,"Rio de Janeiro, Brazil","Right-Handed, Two-Handed Backhand",Wellington Oliveira,BRA
+439,Karl Friberg,23.0,96.0,26.0,,187.0,75.0,"Orebro, Sweden","Right-Handed, Two-Handed Backhand",,SWE
+440,Oleg Prihodko,25.0,95.0,28.0,,169.0,71.0,"Pavlograd, Ukraine","Right-Handed, Two-Handed Backhand",Dmitriy Prihodko,UKR
+441,Andrey Kuznetsov,31.0,94.0,14.0,2008.0,154.0,72.0,"Tula, Russia","Right-Handed, Two-Handed Backhand",Burghard Riehemann,
+442,Carlos Gimeno Valero,21.0,94.0,13.0,2019.0,178.0,75.0,"Valencia, Spain","Right-Handed, Two-Handed Backhand",,ESP
+443,Martin Krumich,20.0,93.0,22.0,,180.0,74.0,Kolin,"Right-Handed, Unknown Backhand",,CZE
+444,Mats Rosenkranz,24.0,93.0,26.0,,182.0,76.0,"Essen, Germany","Left-Handed, Two-Handed Backhand",Peter Moraing,GER
+445,Andrej Martin,33.0,92.0,16.0,2007.0,183.0,72.0,"Bratislava, Slovakia","Right-Handed, Two-Handed Backhand",,SVK
+446,Lucas Miedler,26.0,92.0,16.0,2014.0,172.0,72.0,"Tulln, Austria","Right-Handed, One-Handed Backhand",Wolfgang Thiem,AUT
+447,Kyrian Jacquet,21.0,92.0,18.0,,151.0,69.0,Lyon,"Right-Handed, Two-Handed Backhand",Stephane HUET,FRA
+448,Hady Habib,24.0,92.0,19.0,,195.0,74.0,"Houston, TX, USA","Right-Handed, Two-Handed Backhand",,LIB
+449,Robin Bertrand,19.0,92.0,34.0,,154.0,70.0,NIMES,"Right-Handed, Unknown Backhand",,FRA
+450,Nick Chappell,30.0,91.0,22.0,,180.0,70.0,"Toronto, Canada","Left-Handed, Two-Handed Backhand","Hector Clavijo, Devin Bowen",USA
+451,David Poljak,26.0,89.0,23.0,,169.0,74.0,"Ostrava, Czech Republic","Right-Handed, Two-Handed Backhand",Jiri Novák,CZE
+452,Valerio Aboian,20.0,89.0,24.0,,160.0,72.0,Buenos Aires,"Left-Handed, Two-Handed Backhand",,ARG
+453,Marko Topo,19.0,88.0,22.0,2021.0,183.0,74.0,"Grafelfing, Germany","Right-Handed, Two-Handed Backhand",Ulf Karsten Fischer,GER
+454,Sandro Kopp,22.0,88.0,26.0,,167.0,73.0,Schwaz,"Right-Handed, Two-Handed Backhand",,AUT
+455,Ethan Quinn,18.0,87.0,16.0,,180.0,75.0,"Fresno, California","Right-Handed, Two-Handed Backhand","Bradley Stine, Manuel Diaz, Jamie Hunt",USA
+456,Martin Damm,19.0,87.0,19.0,,209.0,78.0,Bradenton,"Left-Handed, Two-Handed Backhand",Martin Damm Sr. & Sylvain Guichard,USA
+457,Dayne Kelly,32.0,87.0,23.0,,,,,"Right-Handed, Unknown Backhand",,AUS
+458,Martin Cuevas,30.0,86.0,15.0,2010.0,198.0,75.0,"Salto, Uruguay","Right-Handed, One-Handed Backhand",Felipe Maccio,URU
+459,Francesco Forti,23.0,86.0,20.0,2018.0,176.0,74.0,"Cesena, Italy","Right-Handed, Two-Handed Backhand",Gabrio Castrichella,ITA
+460,Jorge Panta,27.0,86.0,21.0,,168.0,,"Piura, Peru","Right-Handed, Two-Handed Backhand",Jorge Luis Panta Yarleque,PER
+461,Mateus Alves,21.0,84.0,12.0,2018.0,193.0,76.0,"São José do Rio Preto, Brazil","Right-Handed, Two-Handed Backhand","Duda Matos, Arthur Rabelo",BRA
+462,Bernard Tomic,30.0,84.0,13.0,2008.0,201.0,77.0,"Stuttgart, Germany","Right-Handed, Two-Handed Backhand",Sara Tomic,AUS
+463,Naoki Nakagawa,26.0,84.0,20.0,,165.0,71.0,"Fukuoka, Japan","Right-Handed, Two-Handed Backhand",Kenichi Nakagawa,JPN
+464,Rimpei Kawakami,22.0,83.0,17.0,,154.0,70.0,Tokyo,"Left-Handed, Two-Handed Backhand",,JPN
+465,Corentin Denolly,25.0,83.0,20.0,2015.0,174.0,74.0,"Vienne, France","Left-Handed, Two-Handed Backhand",Olivier Ramos,FRA
+466,Ajeet Rai,23.0,83.0,22.0,,158.0,74.0,New Plymouth,"Right-Handed, Two-Handed Backhand",Rakesh Rai,NZL
+467,Shintaro Imai,29.0,82.0,14.0,,163.0,70.0,"Kanagawa, Japan","Right-Handed, Unknown Backhand",,JPN
+468,Denis Istomin,36.0,82.0,16.0,2004.0,189.0,73.0,"Orenburg, Russia","Right-Handed, Two-Handed Backhand",Klaudiya Istomina,UZB
+469,Leonardo Aboian,24.0,82.0,21.0,,162.0,69.0,Buenos Aires,"Left-Handed, Two-Handed Backhand",Blengino,ARG
+470,Abedallah Shelbayh,19.0,81.0,10.0,,169.0,71.0,Amman,"Left-Handed, Two-Handed Backhand",,JOR
+471,Calvin Hemery,27.0,81.0,19.0,2013.0,184.0,75.0,"Les Lilas, France","Right-Handed, Two-Handed Backhand",Christophe Couprie,FRA
+472,Felix Gill,20.0,81.0,21.0,,176.0,69.0,Redditch,"Left-Handed, Two-Handed Backhand",Morgan Phillips,GBR
+473,Arthur Fery,20.0,80.0,13.0,,165.0,68.0,Sèvres,"Right-Handed, Two-Handed Backhand",Benoit Foucher,GBR
+474,David Pichler,26.0,80.0,26.0,,158.0,70.0,"Eisenstadt, Austria","Right-Handed, Two-Handed Backhand",Stefan Hirn,AUT
+475,Dino Prizmic,17.0,79.0,13.0,,165.0,73.0,"Split, Croatia","Right-Handed, Two-Handed Backhand",,CRO
+476,JiSung Nam,29.0,79.0,16.0,,176.0,72.0,"Busan, South Korea","Right-Handed, Two-Handed Backhand",,KOR
+477,Colin Sinclair,28.0,79.0,21.0,,180.0,74.0,Saipan,"Right-Handed, Two-Handed Backhand","Ian Malpass, Jeff Race, Silviu Tanasoiu",NMI
+478,Yshai Oliel,22.0,79.0,21.0,,172.0,74.0,"Ramla, Israel","Left-Handed, Two-Handed Backhand",Amos Mansdorf,ISR
+479,Elliot Benchetrit,24.0,78.0,19.0,2016.0,194.0,76.0,"Nice, France","Right-Handed, Two-Handed Backhand","Aurelien Richaud, Jean-Michel Pequery",MAR
+480,Alexis Gautier,25.0,78.0,20.0,,165.0,78.0,Levallois,"Right-Handed, Unknown Backhand",,FRA
+481,Federico Arnaboldi,22.0,78.0,23.0,,173.0,73.0,Como,"Right-Handed, Two-Handed Backhand",Diego Nargiso,ITA
+482,Ilya Snitari,20.0,78.0,24.0,,176.0,74.0,Chisinau,"Right-Handed, Two-Handed Backhand",,MDA
+483,August Holmgren,24.0,77.0,12.0,2022.0,185.0,74.0,"Espergaerde, Denmark","Right-Handed, One-Handed Backhand","Jonas Svendsen, Ryan Keckley",DEN
+484,Matias Zukas,26.0,77.0,20.0,,159.0,72.0,Santa Fe,"Right-Handed, Two-Handed Backhand",Fabian Blengino,ARG
+485,Robert Strombachs,23.0,77.0,30.0,,171.0,75.0,Berlin,"Right-Handed, Unknown Backhand",Armand Strombach,LAT
+486,Luca Potenza,22.0,75.0,20.0,,140.0,,Licata,"Right-Handed, Two-Handed Backhand",Marco Martizi,ITA
+487,Jules Marie,31.0,74.0,21.0,,168.0,73.0,France,"Right-Handed, Unknown Backhand",,FRA
+488,Aldin Setkic,35.0,74.0,26.0,,189.0,75.0,"Sarajevo, Bosnia & Herzegovina","Right-Handed, Two-Handed Backhand",Alberto Castellani,BIH
+489,Khumoyun Sultanov,24.0,73.0,19.0,,176.0,71.0,Namangan,"Right-Handed, Two-Handed Backhand",Onarkhon Savaeva,UZB
+490,Arklon Huertas Del Pino Cordova,28.0,73.0,21.0,,178.0,72.0,Lima,"Right-Handed, Two-Handed Backhand",Luis Horna,PER
+491,Ezekiel Clark,24.0,73.0,29.0,,155.0,67.0,Tulsa,"Right-Handed, Two-Handed Backhand",,USA
+492,Sam Riffice,23.0,72.0,10.0,,170.0,74.0,"Sacramento, CA, USA","Right-Handed, Two-Handed Backhand",Tanner Stump,USA
+493,Konstantin Kravchuk,37.0,72.0,14.0,2004.0,176.0,75.0,"Moscow, Russia","Right-Handed, Two-Handed Backhand",Mikhail Bril,
+494,Pedro Sousa,34.0,72.0,14.0,2007.0,154.0,71.0,"Lisbon, Portugal","Right-Handed, Two-Handed Backhand","Rui Machado, Ruben Ramirez Hidalgo",POR
+495,Eduard Esteve Lobato,28.0,72.0,16.0,,182.0,74.0,"Reus, Spain","Right-Handed, Two-Handed Backhand",,ESP
+496,Yanki Erel,22.0,72.0,19.0,,160.0,70.0,Tekirdag,"Left-Handed, Two-Handed Backhand",,TUR
+497,Stefano Napolitano,27.0,72.0,22.0,2012.0,198.0,77.0,"Biella, Italy","Right-Handed, Two-Handed Backhand",Cristian Brandi,ITA
+498,Sebastian Gima,20.0,72.0,28.0,,158.0,72.0,West Palm Beach,"Left-Handed, Two-Handed Backhand",Andrei Pavel,ROU
+499,Julian Lenz,29.0,71.0,17.0,,180.0,74.0,"Giessen, Germany","Right-Handed, Two-Handed Backhand",Klaus Langenbach,GER
+500,Eliakim Coulibaly,20.0,71.0,18.0,,176.0,72.0,Abidjan,"Left-Handed, Two-Handed Backhand",,CIV
+501,Bogdan Bobrov,25.0,71.0,26.0,,163.0,73.0,Penza,"Right-Handed, One-Handed Backhand","Schaller, Galic",
+502,Gage Brymer,27.0,71.0,30.0,,155.0,73.0,"Irvine, CA","Right-Handed, Two-Handed Backhand",Chuck Brymer,USA
+503,Sumit Nagal,25.0,70.0,15.0,2015.0,152.0,70.0,"Jhajjar, India","Right-Handed, Two-Handed Backhand",Sascha Nensel,IND
+504,Nicola Kuhn,22.0,70.0,17.0,2015.0,176.0,73.0,"Innsbruck, Austria","Right-Handed, Two-Handed Backhand",Dirk Hordorff,GER
+505,Timo Legout,20.0,70.0,19.0,,160.0,70.0,Nogent sur marne,"Right-Handed, Two-Handed Backhand",Kevin mercier,FRA
+506,Michail Pervolarakis,26.0,70.0,21.0,2018.0,198.0,76.0,"Limassol, Cyprus","Right-Handed, Two-Handed Backhand","Aaron Gross, M. Abid Akbar",GRE
+507,Goncalo Oliveira,27.0,70.0,26.0,2012.0,174.0,73.0,"Porto, Portugal","Left-Handed, Two-Handed Backhand",Abilio Oliveira,POR
+508,Alfredo Perez,25.0,69.0,21.0,,175.0,76.0,Havana,"Right-Handed, Two-Handed Backhand",,USA
+509,Leo Borg,19.0,69.0,29.0,,169.0,72.0,"Stockholm, Sweden","Right-Handed, Two-Handed Backhand","Christian Brydniak, Rickard Billing",SWE
+510,Inaki Montes-De La Torre,20.0,68.0,11.0,,175.0,70.0,Pamplona,"Right-Handed, Two-Handed Backhand",,ESP
+511,Nicolas Barrientos,35.0,68.0,11.0,2009.0,165.0,69.0,"Cali, Colombia","Right-Handed, Two-Handed Backhand",,COL
+512,Alejo Lorenzo Lingua Lavallen,21.0,68.0,15.0,,159.0,69.0,Marcos Juarez,"Left-Handed, Two-Handed Backhand","Alberto Mancini, Julian Guarnieri",ARG
+513,Mili Poljicak,18.0,68.0,17.0,,180.0,73.0,"Split, Croatia","Right-Handed, Two-Handed Backhand",Josip Dumanic,CRO
+514,Christian Langmo,26.0,68.0,20.0,,200.0,75.0,Boca Raton,"Right-Handed, Two-Handed Backhand",Stanford Boster,USA
+515,Eric Vanshelboim,21.0,68.0,24.0,,192.0,74.0,Sarajevo,"Right-Handed, One-Handed Backhand",Rune Haertell Thomsen,UKR
+516,Ignacio Monzon,24.0,68.0,29.0,,162.0,68.0,Corrientes,"Right-Handed, Two-Handed Backhand",,ARG
+517,Kris Van Wyk,26.0,67.0,17.0,,,,,,,RSA
+518,Stefan Palosi,22.0,67.0,22.0,,178.0,71.0,Constanta,"Right-Handed, One-Handed Backhand",Andrei Pavel,ROU
+519,Daniel Merida,18.0,67.0,22.0,,176.0,74.0,"Madrid, Spain","Right-Handed, Two-Handed Backhand",CLUB ATLETICO MONTEMAR,ESP
+520,Simon Beaupain,23.0,67.0,23.0,,167.0,70.0,Verviers,"Right-Handed, Two-Handed Backhand",Arnaud Fontaine - Henri Jacquemin,BEL
+521,Marcello Serafini,20.0,67.0,24.0,,198.0,74.0,Rimini,"Right-Handed, Two-Handed Backhand",,ITA
+522,Patrick Kypson,23.0,66.0,14.0,,182.0,74.0,"Durham, NC, USA","Right-Handed, Two-Handed Backhand","Jake Lester, Alejandro Gonzalez",USA
+523,Rubin Statham,35.0,66.0,26.0,2002.0,184.0,71.0,"Westminster, Great Britain","Right-Handed, Two-Handed Backhand",Gary Swinkels,NZL
+524,Murphy Cassone,20.0,65.0,8.0,,175.0,74.0,Overland Park,"Right-Handed, Two-Handed Backhand",Brian Braziel,USA
+525,Mark Whitehouse,29.0,65.0,28.0,,176.0,74.0,"Reigate, England","Right-Handed, Unknown Backhand",,GBR
+526,Gergely Madarasz,28.0,64.0,14.0,,176.0,71.0,Baja,"Left-Handed, Unknown Backhand",,HUN
+527,Aidan Mayo,19.0,64.0,19.0,,165.0,72.0,Sacramento,"Right-Handed, Unknown Backhand",,USA
+528,Sekou Bangoura,31.0,64.0,19.0,2011.0,170.0,72.0,"Bradenton, FL, USA","Right-Handed, Two-Handed Backhand",Sekou Bangoura Sr.,USA
+529,Makoto Ochi,26.0,64.0,20.0,,143.0,69.0,"Akashi, Hyogo, Japan","Left-Handed, Two-Handed Backhand",,JPN
+530,Orlando Luz,24.0,63.0,17.0,,172.0,71.0,"Carazinho, Brazil","Right-Handed, Two-Handed Backhand",Jose Luis Lopez,BRA
+531,Adria Soriano Barrera,23.0,63.0,20.0,,180.0,75.0,Barcelona,"Right-Handed, Two-Handed Backhand",,ESP
+532,Thomas Fancutt,27.0,63.0,20.0,,182.0,74.0,"Brisbane, Australia","Right-Handed, One-Handed Backhand",Blazo Djurovic,AUS
+533,Alexandr Cozbinov,27.0,63.0,20.0,2019.0,176.0,74.0,"Chisinau, Moldova","Right-Handed, Two-Handed Backhand",Leonid Cozbinov,MDA
+534,Harry Wendelken,21.0,63.0,21.0,,149.0,70.0,Cambridge,"Right-Handed, Two-Handed Backhand",,GBR
+535,Imanol Lopez Morillo,23.0,63.0,22.0,,187.0,72.0,Palma de Mallorca,"Right-Handed, Two-Handed Backhand",,ESP
+536,Giles Hussey,25.0,63.0,23.0,,165.0,73.0,Swindon,"Left-Handed, Two-Handed Backhand",,GBR
+537,Shinji Hazawa,23.0,63.0,23.0,,160.0,69.0,"Sanda, Japan","Right-Handed, Two-Handed Backhand",,JPN
+538,Toby Samuel,20.0,62.0,7.0,,176.0,75.0,Winchester,"Right-Handed, Two-Handed Backhand",Josh Goffi,GBR
+539,Matias Soto,23.0,62.0,9.0,,165.0,67.0,copiapo,"Right-Handed, Two-Handed Backhand",Mario Soto Carmona,CHI
+540,Yuki Mochizuki,25.0,62.0,19.0,,132.0,68.0,"Osaka, Japan","Right-Handed, Two-Handed Backhand",,JPN
+541,Kalin Ivanovski,18.0,62.0,23.0,,187.0,77.0,Skopje,"Right-Handed, Two-Handed Backhand",Velimir Zovko,MKD
+542,Gabriele Piraino,19.0,61.0,18.0,,173.0,74.0,"Palermo, Italy","Left-Handed, Unknown Backhand",,ITA
+543,Philip Sekulic,19.0,61.0,22.0,,176.0,75.0,Subiaco,"Right-Handed, Two-Handed Backhand","Tomo Sekulic, Mark Draper",AUS
+544,Constantin Bittoun Kouzmine,23.0,61.0,30.0,2018.0,160.0,70.0,Paris,"Left-Handed, Two-Handed Backhand",Alexandre Sidorenko,FRA
+545,Gonzalo Bueno,18.0,60.0,12.0,,160.0,68.0,"Trujillo, Peru","Right-Handed, Two-Handed Backhand","Luis Horna, Patricio Reynoso",PER
+546,Cannon Kingsley,21.0,60.0,12.0,,165.0,74.0,Mineola,"Right-Handed, Two-Handed Backhand",,USA
+547,Saba Purtseladze,21.0,60.0,33.0,2019.0,200.0,75.0,"Tbilisi, Georgia","Right-Handed, Two-Handed Backhand",Irakli Purtseladze,GEO
+548,Alec Deckers,22.0,59.0,14.0,,184.0,76.0,Blaricum,"Right-Handed, Two-Handed Backhand",Eddy Bank,NED
+549,Daniele Capecchi,27.0,59.0,18.0,,165.0,71.0,"Borgo San Lorenzo, Italy","Right-Handed, Two-Handed Backhand","Giovanni Galuppo , Diego Alvarez",ITA
+550,JC Aragone,27.0,58.0,9.0,2017.0,175.0,70.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",,USA
+551,Arthur Weber,30.0,58.0,9.0,,169.0,73.0,Montpellier,"Left-Handed, Two-Handed Backhand",,FRA
+552,Shuichi Sekiguchi,31.0,58.0,15.0,,145.0,66.0,"San Francisco, CA, USA","Right-Handed, Two-Handed Backhand",,JPN
+553,Yuki Bhambri,30.0,57.0,5.0,2008.0,165.0,73.0,"New Delhi, India","Right-Handed, Two-Handed Backhand",Ankita Bhambri,IND
+554,Johannus Monday,20.0,57.0,8.0,,190.0,78.0,Hull,"Left-Handed, Two-Handed Backhand",,GBR
+555,Justin Boulais,21.0,57.0,10.0,,170.0,72.0,Hilton Head Island,"Left-Handed, One-Handed Backhand",,CAN
+556,Digvijaypratap Singh,22.0,57.0,18.0,,173.0,75.0,"Khanpur Khurd,Jhajjar,Haryana","Right-Handed, Two-Handed Backhand",,IND
+557,Georgii Kravchenko,22.0,57.0,19.0,,149.0,71.0,Kyiv,"Right-Handed, Two-Handed Backhand","Oscar Hernandez, Salvador Navarro",UKR
+558,Tristan Lamasine,29.0,57.0,19.0,2010.0,152.0,72.0,"Thiais, France","Right-Handed, Two-Handed Backhand",Georges Bell,FRA
+559,Jakub Paul,23.0,57.0,21.0,,160.0,71.0,"Chur, Switzerland","Right-Handed, Two-Handed Backhand",Sven Swinnen,SUI
+560,Tsung-Hao Huang,23.0,57.0,22.0,,149.0,68.0,Pingtung,"Right-Handed, Two-Handed Backhand",,TPE
+561,Nathan Ponwith,24.0,57.0,22.0,,175.0,74.0,"Chandler, Arizona","Right-Handed, Two-Handed Backhand",,USA
+562,Luke Saville,28.0,56.0,9.0,2012.0,183.0,74.0,"Barmera, Australia","Right-Handed, Two-Handed Backhand",Rohan Williams,AUS
+563,Andres Andrade,24.0,56.0,13.0,,160.0,71.0,Guayaquil,"Right-Handed, Two-Handed Backhand",,ECU
+564,Jaimee Floyd Angele,22.0,56.0,17.0,,206.0,81.0,Clichy,"Right-Handed, Two-Handed Backhand",,FRA
+565,Rigele Te,25.0,56.0,17.0,,176.0,74.0,"Huhehaote, China","Right-Handed, Two-Handed Backhand",Xinyuan Yu,CHN
+566,Max Alcala Gurri,20.0,56.0,26.0,,149.0,70.0,Barcelona,"Right-Handed, Two-Handed Backhand",,ESP
+567,Tao Mu,22.0,56.0,31.0,,165.0,71.0,CHINA,"Right-Handed, Two-Handed Backhand",,CHN
+568,Noah Rubin,26.0,55.0,13.0,2015.0,155.0,69.0,"Long Island, NY, USA","Right-Handed, Two-Handed Backhand",,USA
+569,Sean Cuenin,18.0,55.0,14.0,,154.0,70.0,Toulon,"Right-Handed, Two-Handed Backhand",Eric Winogradsky,FRA
+570,Amr Elsayed,23.0,55.0,23.0,,,,,,,EGY
+571,Maxime Chazal,29.0,55.0,24.0,,158.0,69.0,Nouméa,"Right-Handed, One-Handed Backhand","Florian Reynet, Rodolphe Cadart",FRA
+572,Matthew Dellavedova,22.0,55.0,39.0,,179.0,75.0,"Wonga Park, Australia","Right-Handed, One-Handed Backhand",Peter Dellavedova / Drew Reed,AUS
+573,Duarte Vale,23.0,54.0,16.0,,163.0,72.0,Cascais,"Right-Handed, Two-Handed Backhand",,POR
+574,Jose Fco. Vidal Azorin,29.0,54.0,18.0,,150.0,70.0,"Sax, Spain","Right-Handed, Two-Handed Backhand",Justo Gonzalez Martinez,ESP
+575,Kiranpal Pannu,25.0,54.0,18.0,,180.0,73.0,Wellington,"Right-Handed, Two-Handed Backhand",Heath Waters,NZL
+576,Mirko Martinez,24.0,54.0,20.0,,154.0,69.0,"Neuchâtel, Switzerland","Right-Handed, Two-Handed Backhand",,SUI
+577,Conner Huertas del Pino,27.0,54.0,21.0,,189.0,74.0,Lima,"Right-Handed, Two-Handed Backhand",,PER
+578,Jorge Martinez Martinez,27.0,54.0,25.0,,145.0,67.0,Elche,"Right-Handed, Two-Handed Backhand",Santiago Ventura/Israel Matos,ESP
+579,Andres Martin,21.0,53.0,5.0,,175.0,72.0,"Atlanta, GA, USA","Right-Handed, Two-Handed Backhand",Murry Lokasundaram,USA
+580,Donald Young,33.0,53.0,16.0,2004.0,175.0,72.0,"Chicago, IL, USA","Left-Handed, Two-Handed Backhand","Illona Young, Donald Young Sr.",USA
+581,Peter Heller,30.0,53.0,20.0,,167.0,73.0,"Cham, Germany","Right-Handed, Two-Handed Backhand",Marco Mirnegg,GER
+582,Kyle Edmund,27.0,52.0,5.0,2012.0,183.0,74.0,"Johannesburg, South Africa","Right-Handed, Two-Handed Backhand",Colin Beecher,GBR
+583,Marvin Moeller,23.0,52.0,10.0,,152.0,70.0,"Hamburg, Germany","Right-Handed, Two-Handed Backhand",,GER
+584,Jack Pinnington Jones,19.0,52.0,10.0,,180.0,71.0,KINGSTON UPON THAMES,"Right-Handed, Two-Handed Backhand",Morgan Phillips,GBR
+585,Henry Patten,26.0,52.0,14.0,,198.0,78.0,Colchester,"Left-Handed, Two-Handed Backhand",,GBR
+586,Liam Draxl,21.0,52.0,14.0,,175.0,73.0,Newmarket,"Right-Handed, Two-Handed Backhand",,CAN
+587,David Jorda Sanchis,28.0,52.0,20.0,,189.0,77.0,"Barcelona, Spain","Right-Handed, Two-Handed Backhand",Alex Lopez Moron,ESP
+588,Lucas Catarina,26.0,52.0,22.0,2015.0,176.0,73.0,Monaco,"Right-Handed, Two-Handed Backhand",Guillaume Couillard,MON
+589,Sidharth Rawat,29.0,51.0,12.0,,154.0,69.0,"New Delhi, India","Right-Handed, Two-Handed Backhand",,IND
+590,Jaime Faria,19.0,51.0,18.0,,171.0,74.0,Lisbon,"Right-Handed, Unknown Backhand",,POR
+591,Fajing Sun,26.0,51.0,21.0,,165.0,70.0,"Beijing , China","Right-Handed, Two-Handed Backhand",,CHN
+592,Sebastian Prechtel,26.0,51.0,24.0,,178.0,73.0,Gräfelfing,"Right-Handed, Two-Handed Backhand","Daniel Huber, Andreas Haider-Maurer",GER
+593,Igor Marcondes,25.0,50.0,1.0,,165.0,73.0,"Caraguatatuba, Brazil","Left-Handed, Two-Handed Backhand",Patrício Arnold,BRA
+594,Roberto Cid Subervi,29.0,50.0,9.0,,180.0,76.0,Santo Domingo,"Right-Handed, Two-Handed Backhand",,DOM
+595,Ryan Harrison,30.0,50.0,10.0,2007.0,185.0,73.0,"Shreveport, LA, USA","Right-Handed, Two-Handed Backhand",Davide Sanguinetti,USA
+596,James Trotter,23.0,50.0,11.0,,165.0,,nishinomiya,"Right-Handed, Unknown Backhand",Ty Tucker,JPN
+597,Jonathan Mridha,27.0,50.0,17.0,,165.0,72.0,"Stockholm, Sweden","Right-Handed, Two-Handed Backhand",Peter Carlsson,SWE
+598,Riccardo Balzerani,24.0,50.0,19.0,,176.0,73.0,"Rieti, Italy","Right-Handed, Two-Handed Backhand",,ITA
+599,Arjun Kadhe,28.0,49.0,8.0,2017.0,182.0,73.0,"Pune, India","Right-Handed, Two-Handed Backhand",,IND
+600,Alex Michelsen,18.0,49.0,10.0,,175.0,76.0,Laguna Hills,"Right-Handed, Two-Handed Backhand",Jay Leavitt,USA
+601,Uisung Park,22.0,49.0,17.0,,,,"Seoul, Korea","Right-Handed, Two-Handed Backhand",,KOR
+602,Alex Hernandez,23.0,49.0,22.0,2017.0,154.0,69.0,"Acapulco, Mexico","Right-Handed, Two-Handed Backhand",,MEX
+603,Tristan McCormick,23.0,48.0,9.0,,205.0,77.0,Philadelphia,"Right-Handed, One-Handed Backhand",Jesse Witten,USA
+604,Kasidit Samrej,21.0,48.0,15.0,,,,,,,THA
+605,Ryota Tanuma,27.0,48.0,16.0,,140.0,71.0,"Tokyo, Japan","Right-Handed, Two-Handed Backhand",Kimitsugu Hatano,JPN
+606,Alexander Bernard,19.0,48.0,19.0,,160.0,69.0,Salem,"Left-Handed, Two-Handed Backhand",Stanford Boster,USA
+607,Alexander Donski,24.0,48.0,21.0,2017.0,176.0,74.0,"Philadelphia, PA, USA","Right-Handed, Two-Handed Backhand","Mislav, Mike Donski",BUL
+608,Aleksandre Metreveli,29.0,48.0,23.0,2010.0,168.0,72.0,"Tbilisi, Georgia","Right-Handed, Two-Handed Backhand",Irakli Metreveli,GEO
+609,Go Soeda,38.0,47.0,5.0,2003.0,160.0,70.0,"Kanagawa, Japan","Right-Handed, Two-Handed Backhand",Davide Sanguinetti,JPN
+610,Gilbert Klier Junior,22.0,47.0,12.0,,173.0,72.0,"Brasilia, Brazil","Right-Handed, Two-Handed Backhand",Arthur Rabelo,BRA
+611,Matyas Fuele,24.0,47.0,17.0,,,,,,,HUN
+612,Blu Baker,21.0,47.0,17.0,,175.0,77.0,Newport  (Isle of Wight),"Right-Handed, Two-Handed Backhand",Juan Mateus Kevin baker Juan Pablo Sanchez,GBR
+613,Peter Bertran,26.0,47.0,19.0,,160.0,72.0,Santiago,"Right-Handed, Two-Handed Backhand",Marcus Hurtig,DOM
+614,Alex Knaff,25.0,47.0,21.0,,187.0,76.0,Luxembourg,"Right-Handed, Two-Handed Backhand",Gilles Muller,LUX
+615,Fausto Tabacco,20.0,47.0,24.0,,176.0,72.0,Messina,"Right-Handed, Two-Handed Backhand",Tommaso Castagnola,ITA
+616,Pedja Krstin,28.0,47.0,25.0,2012.0,176.0,72.0,"Mokrin, Serbia","Right-Handed, Two-Handed Backhand",,SRB
+617,Savva Polukhin,24.0,46.0,11.0,,,,,,,
+618,Rrezart Cungu,24.0,46.0,17.0,,154.0,68.0,"Bar, Montenegro","Right-Handed, Two-Handed Backhand",,MNE
+619,Viacheslav Bielinskyi,19.0,46.0,18.0,,,,,,,UKR
+620,Giorgio Tabacco,19.0,46.0,19.0,,176.0,70.0,Messina,"Right-Handed, Two-Handed Backhand",Tommaso castagnola,ITA
+621,Peter Fajta,20.0,46.0,19.0,,178.0,73.0,Budapest,"Right-Handed, Two-Handed Backhand","Palagyi Miklos, Sandor Noszaly",HUN
+622,Tomas Farjat,21.0,46.0,19.0,,176.0,74.0,Buenos Aires,"Right-Handed, Two-Handed Backhand",,ARG
+623,Hanwen Li,20.0,46.0,27.0,,162.0,71.0,Jiangsu,"Right-Handed, Unknown Backhand",Wei zhang,CHN
+624,Kai Wehnelt,27.0,46.0,27.0,,180.0,73.0,Berlin,"Right-Handed, Two-Handed Backhand",,GER
+625,Fermin Tenti,25.0,46.0,28.0,,163.0,61.0,"La Plata, Argentina","Right-Handed, Two-Handed Backhand",,ARG
+626,Cristian Rodriguez,32.0,45.0,12.0,,172.0,71.0,"Bogota, Colombia","Right-Handed, Two-Handed Backhand",Adriano Albanesi,COL
+627,Petr Nouza,24.0,45.0,13.0,,198.0,76.0,Prague,"Right-Handed, Two-Handed Backhand",,CZE
+628,Christopher Heyman,29.0,45.0,13.0,,198.0,74.0,"Eupen, Belgium","Left-Handed, One-Handed Backhand",,BEL
+629,Evgenii Tiurnev,25.0,45.0,13.0,,187.0,75.0,Gatchina,"Right-Handed, Two-Handed Backhand",Mikhail Tsybin,
+630,Gabriel Debru,17.0,45.0,16.0,,171.0,76.0,Grenoble,"Right-Handed, Two-Handed Backhand",Boris Vallejo,FRA
+631,Benjamin Winter Lopez,24.0,45.0,26.0,,167.0,71.0,Edinburgh,"Right-Handed, Two-Handed Backhand",,ESP
+632,Quentin Folliot,24.0,45.0,27.0,,154.0,71.0,"Paris, France","Right-Handed, Two-Handed Backhand",Robin VACA Y SAEZ,FRA
+633,Colin Markes,25.0,45.0,28.0,,185.0,74.0,Austin,"Right-Handed, Two-Handed Backhand",,USA
+634,Jerzy Janowicz,32.0,44.0,7.0,2007.0,207.0,80.0,"Lodz, Poland","Right-Handed, Two-Handed Backhand",,POL
+635,Luca Tomasetto,26.0,44.0,15.0,,182.0,73.0,Cirié,"Right-Handed, Two-Handed Backhand",,ITA
+636,Bruno Kuzuhara,18.0,44.0,19.0,2022.0,150.0,69.0,"Sao Paulo, Brazil","Right-Handed, Two-Handed Backhand",,USA
+637,Arthur Reymond,23.0,44.0,25.0,,162.0,71.0,Toulouse,"Left-Handed, One-Handed Backhand",Laurent Reymond,FRA
+638,Alex Bolt,29.0,43.0,9.0,2011.0,185.0,72.0,"Murray Bridge, Australia","Left-Handed, Two-Handed Backhand",Jaymon Crabb,AUS
+639,Clement Chidekh,21.0,43.0,10.0,2022.0,165.0,71.0,"Arles, France","Right-Handed, Two-Handed Backhand","Matt Anger, Lionel Zimbler",FRA
+640,Cheong-Eui Kim,32.0,43.0,11.0,,,,,,,KOR
+641,Felix Corwin,26.0,43.0,12.0,,180.0,74.0,"Kalamazoo, MI, USA","Right-Handed, Two-Handed Backhand",Erick Martinez,USA
+642,Nicolae Frunza,25.0,43.0,12.0,,172.0,73.0,"Bucharest, Romania","Right-Handed, One-Handed Backhand",Daniel Frunza,ROU
+643,Simone Roncalli,26.0,43.0,20.0,,154.0,69.0,"Busto Arsizio, Italy","Right-Handed, Two-Handed Backhand",Matteo Cecchetti,ITA
+644,Tim Handel,26.0,43.0,22.0,,182.0,74.0,Reutlingen,"Right-Handed, One-Handed Backhand",Marek Kimla,GER
+645,Stefan Popovic,19.0,43.0,24.0,,,,,,,SRB
+646,Ruben Bemelmans,34.0,42.0,11.0,2006.0,165.0,72.0,"Genk, Belgium","Left-Handed, Two-Handed Backhand",Bjorn Simon,BEL
+647,Miguel Damas,23.0,42.0,13.0,,182.0,72.0,Madrid,"Right-Handed, Two-Handed Backhand","Luis Zapata, Javi Perez",ESP
+648,Jeremy Jahn,32.0,42.0,16.0,,161.0,70.0,"Munich, Germany","Right-Handed, One-Handed Backhand",,GER
+649,Bekkhan Atlangeriev,21.0,42.0,16.0,,169.0,73.0,Moscow,"Right-Handed, Unknown Backhand",Sergey Kozak,
+650,Duckhee Lee,24.0,42.0,16.0,2013.0,165.0,69.0,"Jecheon, South Korea","Right-Handed, Two-Handed Backhand",,KOR
+651,Dominik Boehler,26.0,42.0,18.0,,,,,"Right-Handed, Two-Handed Backhand",,GER
+652,Nicolas Zanellato,20.0,42.0,21.0,,154.0,70.0,São Paulo,"Right-Handed, One-Handed Backhand",,BRA
+653,Pedro Araujo,20.0,42.0,21.0,,149.0,71.0,Lisbon,"Right-Handed, Two-Handed Backhand",,POR
+654,Lukas Krainer,22.0,42.0,23.0,,182.0,78.0,Klagenfurt,"Right-Handed, Two-Handed Backhand",Gilbert Schaller,AUT
+655,Stefan Dostanic,21.0,41.0,7.0,,,,,"Right-Handed, Two-Handed Backhand",,USA
+656,Johannes Haerteis,26.0,41.0,18.0,,198.0,77.0,Nuremberg,"Left-Handed, Two-Handed Backhand","Walter Otto, Andreas Tattermusch, Eduard Samson",GER
+657,Federico Agustin Gomez,26.0,41.0,18.0,,210.0,75.0,Merlo,"Right-Handed, Two-Handed Backhand",,ARG
+658,Koray Kirci,24.0,41.0,23.0,,167.0,72.0,Bursa,"Right-Handed, Two-Handed Backhand",Günaydin Kirci,TUR
+659,Federico Iannaccone,23.0,41.0,24.0,,158.0,72.0,Campobasso,"Right-Handed, Unknown Backhand",,ITA
+660,Oscar Weightman,21.0,40.0,17.0,,160.0,74.0,"London, Great Britain","Right-Handed, Unknown Backhand",,GBR
+661,Hazem Naw,23.0,40.0,17.0,,169.0,72.0,Aleppo,"Right-Handed, Two-Handed Backhand",Marc Kevin Goellner,SYR
+662,Manish Sureshkumar,23.0,40.0,18.0,,137.0,72.0,"Chennai, India","Right-Handed, Two-Handed Backhand",Sureshkumar,IND
+663,Tibo Colson,22.0,40.0,21.0,,204.0,77.0,Genk,"Right-Handed, Two-Handed Backhand",,BEL
+664,Sahar Simon,21.0,40.0,21.0,,,,,,,ISR
+665,Christoph Negritu,28.0,39.0,20.0,,183.0,76.0,"Dinkelsbuehl, Germany","Right-Handed, Two-Handed Backhand","Binh Bui, Konstantin (Koko) Stamm",GER
+666,Arthur Bouquier,22.0,39.0,25.0,,187.0,74.0,Lons le saunier,"Right-Handed, Two-Handed Backhand","Yann Benard, Pierre Yves Vuignier, Thierry Kvartskhava",FRA
+667,Mikael Torpegaard,28.0,38.0,12.0,2018.0,185.0,76.0,"Gentofte, Denmark","Right-Handed, Two-Handed Backhand","David Kass, Balazs Novak",DEN
+668,Mohamed Safwat,32.0,38.0,17.0,2008.0,182.0,71.0,"Mansoura, Egypt","Right-Handed, Two-Handed Backhand",Gilbert Schaller,EGY
+669,Lukas Pokorny,20.0,38.0,22.0,,182.0,75.0,Bratislava,"Right-Handed, Two-Handed Backhand",Lubomír Kurhajec,SVK
+670,Tommaso Compagnucci,23.0,38.0,22.0,,143.0,68.0,Macerata,"Right-Handed, Two-Handed Backhand",,ITA
+671,Davide Galoppini,28.0,38.0,28.0,,154.0,69.0,"Livorno, Italy","Right-Handed, Two-Handed Backhand",/,ITA
+672,Edward Winter,18.0,37.0,8.0,,162.0,70.0,Adelaide,"Right-Handed, Two-Handed Backhand",Jack Schipanski,AUS
+673,Tobias Kamke,36.0,37.0,9.0,2004.0,167.0,70.0,"Lubeck, Germany","Right-Handed, Two-Handed Backhand","Ralph Grambow, Julian Reister",GER
+674,Garrett Johns,22.0,37.0,9.0,,155.0,71.0,Atlanta Ga,"Right-Handed, Two-Handed Backhand",Noel Wadawu,USA
+675,Zhe Li,36.0,37.0,14.0,2004.0,169.0,73.0,"Tianjin, China","Right-Handed, Two-Handed Backhand",Christophe Lambert,CHN
+676,Emilien Voisin,22.0,37.0,16.0,,158.0,70.0,Grenoble,"Right-Handed, Two-Handed Backhand",Le Cras Gaëtan,FRA
+677,Alex Barrena,20.0,37.0,18.0,,149.0,69.0,Buenos Aires,"Right-Handed, Two-Handed Backhand",Max Barrena,ARG
+678,Tomas Lipovsek Puches,29.0,37.0,18.0,,165.0,72.0,Buenos Aires,"Right-Handed, Two-Handed Backhand",,ARG
+679,Franco Emanuel Egea,27.0,37.0,19.0,,171.0,71.0,"Cordoba, Argentina","Right-Handed, Two-Handed Backhand",Mario Niz,ARG
+680,Shunsuke Mitsui,20.0,36.0,7.0,,159.0,70.0,Shizuoka,"Right-Handed, Unknown Backhand",,JPN
+681,Andrew Harris,28.0,36.0,11.0,,179.0,72.0,Box Hill,"Right-Handed, One-Handed Backhand",,AUS
+682,Bor Artnak,18.0,36.0,12.0,,171.0,76.0,Trbovlje,"Right-Handed, Two-Handed Backhand",,SLO
+683,Zura Tkemaladze,22.0,36.0,21.0,2019.0,176.0,74.0,"Tbilisi, Georgia","Right-Handed, Two-Handed Backhand","Lennart Zynga, Burghard Rieheman",GEO
+684,Andrea Picchione,24.0,36.0,29.0,,176.0,72.0,L Aquila,"Right-Handed, Two-Handed Backhand",Giorgio Galimberti,ITA
+685,Roberto Marcora,33.0,35.0,3.0,2009.0,187.0,76.0,"Busto Arsizio, Italy","Right-Handed, One-Handed Backhand",Francesco Aldi,ITA
+686,Tatsuma Ito,34.0,35.0,6.0,2006.0,165.0,71.0,"Mie, Japan","Right-Handed, Two-Handed Backhand",Alexander Waske,JPN
+687,Olle Wallin,21.0,35.0,6.0,,,,,,,SWE
+688,Enzo Wallart,25.0,35.0,14.0,,167.0,73.0,Orlando,"Right-Handed, Two-Handed Backhand","Jordan Ubiergo, Franck Wallart",FRA
+689,Adam Moundir,27.0,35.0,18.0,,200.0,75.0,"Saint Louis, France","Right-Handed, Two-Handed Backhand",,MAR
+690,Ignacio Carou,23.0,35.0,20.0,,154.0,70.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Matías Caceres,URU
+691,Victor Lilov,18.0,35.0,21.0,,182.0,72.0,"London, Canada","Right-Handed, Two-Handed Backhand",,USA
+692,Kirill Kivattsev,25.0,35.0,24.0,,187.0,76.0,"Volgograd, Russia","Right-Handed, One-Handed Backhand","Ilia Barkov, Antonello Regina",
+693,Matteo Donati,27.0,34.0,10.0,2013.0,163.0,73.0,"Alessandria, Italy","Right-Handed, Two-Handed Backhand",Massimo Puci,ITA
+694,Pawel Cias,28.0,34.0,10.0,,154.0,70.0,"Gdansk, Poland","Right-Handed, Two-Handed Backhand",Pawel Cias,POL
+695,Duje Kekez,29.0,34.0,14.0,,180.0,72.0,Split,"Right-Handed, Two-Handed Backhand",Lauro Milanovic,CRO
+696,Alec Beckley,21.0,34.0,17.0,,,,,"Right-Handed, Unknown Backhand",,RSA
+697,Keisuke Saitoh,21.0,34.0,17.0,,149.0,64.0,Saitma,"Left-Handed, Two-Handed Backhand",Shinichi Takemasa,JPN
+698,Simon Anthony Ivanov,22.0,34.0,18.0,,167.0,74.0,VARNA,"Right-Handed, Two-Handed Backhand",,BUL
+699,Matthieu Perchicot,30.0,34.0,25.0,,187.0,73.0,Biarritz,"Right-Handed, Two-Handed Backhand",Roxane badie,FRA
+700,William Blumberg,24.0,33.0,3.0,2021.0,190.0,74.0,"New York, NY, USA","Right-Handed, Two-Handed Backhand","Stephen Huss, Tripp Phillips",USA
+701,Juan Ignacio Galarza,28.0,33.0,14.0,,182.0,72.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Oscar galarza,ARG
+702,Cyril Vandermeersch,23.0,33.0,15.0,,158.0,71.0,Roubaix,"Right-Handed, Two-Handed Backhand",,FRA
+703,Manuel Mazza,23.0,33.0,16.0,,156.0,70.0,Rimini,"Right-Handed, Two-Handed Backhand",,ITA
+704,Xiaofei Wang,19.0,33.0,17.0,,,,,,,CHN
+705,Szymon Kielan,20.0,33.0,18.0,,213.0,77.0,Lodz,"Right-Handed, Two-Handed Backhand",,POL
+706,Anton Matusevich,21.0,33.0,18.0,,189.0,73.0,New York,"Right-Handed, Two-Handed Backhand",,GBR
+707,Fernando Yamacita,25.0,33.0,20.0,,172.0,73.0,"Londrina, Brazil","Right-Handed, Two-Handed Backhand",Elson Longo,BRA
+708,Marco Miceli,24.0,33.0,24.0,,180.0,,Formia,"Right-Handed, Two-Handed Backhand",,ITA
+709,Marcelo Zormann,26.0,32.0,13.0,,176.0,,"Lins, Brazil","Right-Handed, Two-Handed Backhand",Thiago Alves/Edvaldo Oliveira,BRA
+710,Yusuke Takahashi,25.0,32.0,18.0,2016.0,150.0,67.0,"Kanagawa, Japan","Right-Handed, Two-Handed Backhand",Yuma Tsuji,JPN
+711,Thomas Deschamps,24.0,32.0,21.0,,160.0,73.0,PARIS,"Right-Handed, Two-Handed Backhand",,FRA
+712,Luigi Sorrentino,24.0,32.0,22.0,,165.0,73.0,vicenza,"Right-Handed, Two-Handed Backhand",,ITA
+713,Mick Veldheer,26.0,32.0,22.0,,176.0,73.0,Dirksland,"Left-Handed, Two-Handed Backhand",,NED
+714,Ivan Nedelko,36.0,31.0,13.0,2006.0,176.0,73.0,"St. Petersburg, Russia","Right-Handed, Two-Handed Backhand","Valery Shilkov, Artem Kirillov",
+715,Ryuki Matsuda,23.0,31.0,18.0,,,,Kyoto,"Right-Handed, Two-Handed Backhand",,JPN
+716,Orel Kimhi,19.0,31.0,21.0,,143.0,68.0,Jerusalem,"Right-Handed, Two-Handed Backhand",Yonatan kruveni,ISR
+717,Florent Bax,23.0,31.0,25.0,,,,,,,FRA
+718,Attila Balazs,34.0,30.0,4.0,2006.0,172.0,71.0,"Budapest, Hungary","Right-Handed, Two-Handed Backhand",Daniel Szendrei,HUN
+719,Chris Rodesch,21.0,30.0,5.0,,204.0,78.0,Luxembourg,"Right-Handed, Two-Handed Backhand","Scott Brown, Andres Pedroso, Anders Johansson",LUX
+720,Alexander Erler,25.0,30.0,8.0,2015.0,183.0,76.0,"Innsbruck, Austria","Right-Handed, Two-Handed Backhand","Daniel Huber, Thomas Weindorfer",AUT
+721,Ignacio Buse,18.0,30.0,8.0,,162.0,72.0,Lima,"Right-Handed, Two-Handed Backhand",,PER
+722,Elmer Moller,19.0,30.0,13.0,,,,,,,DEN
+723,Palaphoom Kovapitukted,23.0,30.0,13.0,,156.0,70.0,Bangkok,"Right-Handed, Two-Handed Backhand",Adam Vejmelka,THA
+724,Daniel Rodrigues,22.0,30.0,13.0,,,,Funchal,"Right-Handed, Two-Handed Backhand",,POR
+725,Emil Reinberg,25.0,30.0,15.0,,190.0,74.0,"Atlanta, Georgia, USA","Right-Handed, Two-Handed Backhand",Rudy Diaz,USA
+726,Lorenzo Bocchi,25.0,30.0,19.0,,169.0,71.0,Casalmaggiore,"Right-Handed, Two-Handed Backhand",Cristian Fava,ITA
+727,Alvaro Guillen Meza,20.0,30.0,19.0,,162.0,69.0,Guayaquil,"Right-Handed, Two-Handed Backhand",,ECU
+728,Jiri Barnat,21.0,30.0,20.0,,,,,,,CZE
+729,Niki Kaliyanda Poonacha,27.0,30.0,22.0,,189.0,75.0,"Neyveli, India","Right-Handed, Two-Handed Backhand",,IND
+730,Maxence Beauge,22.0,30.0,26.0,,154.0,72.0,"Marzy, France","Right-Handed, Two-Handed Backhand",Bouvier Yohan,FRA
+731,Hynek Barton,18.0,29.0,5.0,,,,,"Right-Handed, Two-Handed Backhand",,CZE
+732,Tadeas Paroulek,23.0,29.0,8.0,,,,,,,CZE
+733,Maxime Mora,25.0,29.0,11.0,,160.0,72.0,"Narbonne, France","Right-Handed, Two-Handed Backhand",Helton Alias Tonton,FRA
+734,Simon Carr,23.0,29.0,14.0,,169.0,72.0,"Dublin, Ireland","Right-Handed, Two-Handed Backhand",,IRL
+735,S D Prajwal Dev,26.0,29.0,18.0,,165.0,69.0,Mysore,"Right-Handed, Two-Handed Backhand",Sujith Sachidanand,IND
+736,Sidane Pontjodikromo,22.0,29.0,18.0,,,,,,,NED
+737,Sergi Perez Contri,24.0,29.0,18.0,,,,,,,ESP
+738,Savriyan Danilov,22.0,29.0,19.0,,180.0,74.0,Moscow,"Right-Handed, Two-Handed Backhand",Alexander Kuznetsov,
+739,Yan Bondarevskiy,22.0,29.0,21.0,,156.0,75.0,Russia,"Left-Handed, Two-Handed Backhand",,
+740,Matthew Ebden,35.0,28.0,2.0,2006.0,176.0,74.0,"Durban, South Africa","Right-Handed, Two-Handed Backhand",Omar Hejleh,AUS
+741,Patrik Rikl,23.0,28.0,7.0,,176.0,73.0,"Bradenton, FL, USA","Right-Handed, Two-Handed Backhand",Martin Stepanek,CZE
+742,Yuta Kikuchi,23.0,28.0,9.0,,148.0,68.0,Yahaba,"Right-Handed, Unknown Backhand",,JPN
+743,Blake Ellis,23.0,28.0,11.0,,165.0,75.0,Brisbane,"Right-Handed, Two-Handed Backhand",Brent Larkham,AUS
+744,Chak Lam Coleman Wong,18.0,28.0,13.0,,176.0,75.0,Hong Kong,"Right-Handed, Two-Handed Backhand",James Allemby,HKG
+745,Khololwam Montsi,20.0,28.0,13.0,,139.0,66.0,"East London, South Africa","Right-Handed, Two-Handed Backhand",Johnny Brown,RSA
+746,Adolfo Daniel Vallejo,18.0,28.0,16.0,,158.0,72.0,Asuncion,"Right-Handed, Two-Handed Backhand",,PAR
+747,Daisuke Sumizawa,23.0,28.0,17.0,,147.0,69.0,YOKOHAMA,"Right-Handed, Two-Handed Backhand",Shinichi Takemasa,JPN
+748,John Echeverria,21.0,28.0,19.0,,158.0,71.0,San Sebastian,"Right-Handed, Unknown Backhand",,ESP
+749,Calin Manda,24.0,28.0,23.0,,184.0,73.0,Pitesti,"Right-Handed, Two-Handed Backhand",,ROU
+750,Andrea Guerrieri,24.0,28.0,24.0,,,70.0,"Correggio, Italy","Left-Handed, Two-Handed Backhand",Jacopo Marchegiani,ITA
+751,Roko Horvat,21.0,27.0,6.0,,176.0,75.0,Zagreb,"Right-Handed, Two-Handed Backhand",Alan Mari,CRO
+752,Michiel De Krom,24.0,27.0,6.0,,176.0,72.0,Dubai,"Right-Handed, Two-Handed Backhand",Jos Koemans,NED
+753,Pedro Rodenas,18.0,27.0,7.0,,165.0,73.0,Madrid,"Left-Handed, Two-Handed Backhand",Ramsey Smith,ESP
+754,Vilius Gaubas,18.0,27.0,16.0,,158.0,70.0,Siauliai,"Right-Handed, Two-Handed Backhand",,LTU
+755,Andrea Basso,29.0,27.0,16.0,,158.0,73.0,"Genoa, Italy","Left-Handed, Two-Handed Backhand",,ITA
+756,Ryan Nijboer,23.0,27.0,21.0,,169.0,71.0,Lelystad,"Right-Handed, Two-Handed Backhand",Martin Bohm,NED
+757,Pavel Nejedly,29.0,27.0,24.0,,162.0,70.0,Brno,"Right-Handed, Unknown Backhand",,CZE
+758,Jea Moon Lee,29.0,26.0,7.0,,,,,"Right-Handed, Two-Handed Backhand",,KOR
+759,Guy Den Ouden,20.0,26.0,12.0,,165.0,72.0,Utrecht,"Right-Handed, Two-Handed Backhand",Marcel Vos,NED
+760,Santiago De La Fuente,20.0,26.0,13.0,,178.0,69.0,Dolores,"Right-Handed, Two-Handed Backhand",,ARG
+761,Roy Smith,24.0,26.0,13.0,,165.0,75.0,"New Haven, CT, USA","Left-Handed, Two-Handed Backhand",Isidro Martinez,USA
+762,Enrico Dalla Valle,24.0,26.0,14.0,,198.0,77.0,Ravenna,"Right-Handed, Two-Handed Backhand",Cristian Brandi,ITA
+763,Vlad Andrei Dancu,23.0,26.0,14.0,,,,,"Right-Handed, Unknown Backhand",,ROU
+764,Blaise Bicknell,21.0,26.0,16.0,,180.0,75.0,Miami,"Right-Handed, Two-Handed Backhand",Melville Spence,JAM
+765,Niklas Schell,23.0,26.0,17.0,,188.0,75.0,"Wiesbaden, Germany","Right-Handed, Two-Handed Backhand",Tim Buettner,GER
+766,Kareem Al Allaf,24.0,26.0,18.0,,163.0,71.0,Des Moines,"Right-Handed, Two-Handed Backhand","Ross Wilson, Ammar Allaf",USA
+767,Mathieu Scaglia,24.0,26.0,20.0,,176.0,71.0,Cannes,"Right-Handed, Two-Handed Backhand",,FRA
+768,Lorenzo Rottoli,20.0,26.0,24.0,,140.0,,Como,"Right-Handed, Two-Handed Backhand",Fabrizio Rottoli,ITA
+769,Alejandro Manzanera Pertusa,19.0,26.0,25.0,,,,,,,ESP
+770,Daniil Glinka,22.0,26.0,25.0,,183.0,74.0,Tallinn,"Left-Handed, One-Handed Backhand",,EST
+771,Micah Braswell,21.0,25.0,2.0,,,,,,,USA
+772,Christian Sigsgaard,25.0,25.0,12.0,,193.0,74.0,Gentofte,"Right-Handed, One-Handed Backhand",,DEN
+773,Mariano Kestelboim,26.0,25.0,13.0,,173.0,73.0,"Buenos Aires, Argentina","Right-Handed, Two-Handed Backhand",Marcos Massonneau,ARG
+774,Deney Wassermann,21.0,25.0,14.0,,200.0,75.0,Amsterdam,"Right-Handed, One-Handed Backhand",Martijn bok,NED
+775,Ilia Simakin,19.0,25.0,16.0,,,,,,,
+776,Aleksandre Bakshi,25.0,25.0,16.0,2019.0,161.0,71.0,"Tbilisi, Georgia","Left-Handed, Two-Handed Backhand",Victor Bakshi,GEO
+777,Leopold Zima,22.0,25.0,18.0,,173.0,73.0,Starnberg,"Right-Handed, Two-Handed Backhand",Markus Wislsperger,GER
+778,Osgar O'Hoisin,26.0,25.0,21.0,,180.0,76.0,"Dublin, Ireland","Right-Handed, Two-Handed Backhand",,IRL
+779,Aaron Addison,27.0,25.0,22.0,,180.0,76.0,"Melbourne, Australia","Right-Handed, Two-Handed Backhand",Steven Savino,AUS
+780,Juan Carlos Prado Angelo,17.0,24.0,7.0,,158.0,73.0,Santa Cruz,"Right-Handed, Two-Handed Backhand",Hermann Ritter,BOL
+781,Maciej Rajski,31.0,24.0,12.0,,176.0,76.0,"Piotrków Trybunalski, Poland","Right-Handed, Two-Handed Backhand","Andrzej Sikorski, Krystian Pfeiffer",POL
+782,Martyn Pawelski,18.0,24.0,14.0,,,,,"Right-Handed, Two-Handed Backhand",,POL
+783,Evgeny Philippov,20.0,24.0,14.0,,,,,,,
+784,Nicolas Buitrago,24.0,24.0,19.0,,162.0,73.0,Bogota,"Right-Handed, Two-Handed Backhand",,COL
+785,Marat Sharipov,20.0,24.0,20.0,,167.0,73.0,"Cheboksary, Russia","Right-Handed, Two-Handed Backhand",,
+786,Ivan Liutarevich,26.0,24.0,22.0,,200.0,77.0,Minsk,"Right-Handed, Two-Handed Backhand",,
+787,Bruno Pujol Navarro,21.0,24.0,23.0,,,,,,,ESP
+788,Stefano Battaglino,24.0,24.0,25.0,,,,,,,ITA
+789,Luis Patino,29.0,23.0,9.0,,171.0,72.0,"Mazatlan, Mexico","Right-Handed, Two-Handed Backhand",Leonardo Olguin,MEX
+790,Alex Martinez,21.0,23.0,9.0,,,,,,,ESP
+791,John McNally,24.0,23.0,11.0,,180.0,72.0,"Cincinnati, OH, USA","Right-Handed, Two-Handed Backhand",,USA
+792,Olaf Pieczkowski,18.0,23.0,12.0,,171.0,72.0,Olsztyn,"Right-Handed, Two-Handed Backhand",Marcel du Coudray,POL
+793,Jarno Jans,22.0,23.0,13.0,,,,,,,NED
+794,Luciano Emanuel Ambrogi,19.0,23.0,14.0,,169.0,74.0,Rosario,"Right-Handed, Two-Handed Backhand",Alberto Mancini,ARG
+795,Tom Gentzsch,19.0,23.0,17.0,,182.0,74.0,Duisburg,"Right-Handed, Unknown Backhand",Peter Moraing,GER
+796,Franco Roncadelli,22.0,23.0,18.0,2018.0,161.0,73.0,"Montevideo, Uruguay","Left-Handed, Two-Handed Backhand",Enrique Perez Cassarino,URU
+797,Alejandro Hoyos,23.0,23.0,19.0,,171.0,71.0,"Cartago, Valle","Right-Handed, Two-Handed Backhand",Luciano Carluccio,COL
+798,Johannes Ingildsen,25.0,23.0,20.0,,185.0,,Frederiksberg,"Right-Handed, Two-Handed Backhand",,DEN
+799,Bogdan Ionut Apostol,26.0,23.0,21.0,,165.0,72.0,Iasi,"Right-Handed, Two-Handed Backhand",,ROU
+800,Kristjan Tamm,24.0,23.0,24.0,,171.0,73.0,Tartu,"Right-Handed, Two-Handed Backhand",,EST
+801,Calum Puttergill,29.0,23.0,24.0,,171.0,72.0,"Umtata, South Africa","Right-Handed, Two-Handed Backhand",Ryan Sevil,AUS
+802,Denis Klok,24.0,23.0,26.0,,180.0,71.0,Evpatoria,"Right-Handed, Two-Handed Backhand",Veronika Fedorova,
+803,Stefanos Sakellaridis,18.0,23.0,34.0,,182.0,78.0,Athens,"Right-Handed, Two-Handed Backhand",Ioannis Sakellaridis,GRE
+804,Pedro Sakamoto,29.0,22.0,3.0,2009.0,174.0,71.0,"Guarulhos, Brazil","Right-Handed, Two-Handed Backhand",Arthur Andrade,BRA
+805,Federico Zeballos,34.0,22.0,11.0,,165.0,73.0,"Santa Cruz, Bolivia","Right-Handed, Two-Handed Backhand",,BOL
+806,Mario Gonzalez Fernandez,20.0,22.0,14.0,,,,,,,ESP
+807,Lorenzo Joaquin Rodriguez,23.0,22.0,14.0,,171.0,76.0,Buenos Aires,"Right-Handed, Unknown Backhand","Rubén Hidalgo, Mariano Campos",ARG
+808,Mitchell Harper,25.0,22.0,14.0,,162.0,69.0,"Rockhampton, Australia","Right-Handed, Two-Handed Backhand",Cole Wernecke,AUS
+809,Juan Sebastian Gomez,30.0,22.0,17.0,,,,,,,COL
+810,Buvaysar Gadamauri,22.0,22.0,18.0,,176.0,72.0,Bree,"Right-Handed, One-Handed Backhand",,BEL
+811,Masamichi Imamura,24.0,22.0,20.0,,158.0,70.0,Osaka,"Right-Handed, Two-Handed Backhand",,JPN
+812,Marco Brugnerotto,26.0,22.0,20.0,,154.0,71.0,"Varese, Italy","Left-Handed, Two-Handed Backhand",Massimo Brugnerotto,ITA
+813,Joao Victor Couto Loureiro,19.0,22.0,22.0,,176.0,73.0,Belo Horizonte,"Right-Handed, Two-Handed Backhand",Roberto Carvalho,BRA
+814,Nicolas Tepmahc,21.0,22.0,24.0,,171.0,74.0,Marseille,"Right-Handed, Two-Handed Backhand",,FRA
+815,Alejandro Gonzalez,33.0,21.0,5.0,2006.0,182.0,75.0,"Medellin, Colombia","Right-Handed, Two-Handed Backhand",Pablo Fuente,COL
+816,Matthias Bachinger,35.0,21.0,7.0,2005.0,190.0,74.0,"Munich, Germany","Right-Handed, Two-Handed Backhand",Alex Satschko,GER
+817,Davide Pontoglio,30.0,21.0,8.0,,150.0,69.0,"Brescia, Italy","Right-Handed, One-Handed Backhand",,ITA
+818,Gabi Adrian Boitan,23.0,21.0,9.0,,180.0,73.0,Constanta,"Right-Handed, Two-Handed Backhand",,ROU
+819,Filippo Baldi,26.0,21.0,11.0,2012.0,176.0,71.0,"Milan, Italy","Right-Handed, Two-Handed Backhand",Marco Salerno,ITA
+820,Petr Nesterov,19.0,21.0,13.0,,171.0,,Moscow,"Right-Handed, Two-Handed Backhand",,BUL
+821,Filip Bergevi,28.0,21.0,16.0,,180.0,73.0,"Kristianstad, Sweden","Right-Handed, Two-Handed Backhand",Fred Johnsen,SWE
+822,Francesco Vilardo,33.0,21.0,17.0,,154.0,70.0,"Belvedere Marittimo, Italy","Right-Handed, One-Handed Backhand","Francesco Aldi , Giuseppe Fischetti",ITA
+823,Svyatoslav Gulin,20.0,21.0,18.0,,,,,,,
+824,Arnaud Bovy,22.0,21.0,20.0,,176.0,71.0,Liège,"Left-Handed, Two-Handed Backhand",,BEL
+825,Dali Blanch,19.0,21.0,22.0,,176.0,73.0,"Miami, FL, USA","Right-Handed, Two-Handed Backhand",Alejandro Dulko,USA
+826,Daniel Little,25.0,21.0,23.0,,176.0,74.0,"Shoreham by sea, England","Right-Handed, Two-Handed Backhand",,GBR
+827,Feliciano Lopez,41.0,20.0,12.0,1997.0,194.0,74.0,"Toledo, Spain","Left-Handed, One-Handed Backhand",,ESP
+828,Matija Pecotic,33.0,20.0,2.0,,186.0,74.0,"Belgrade, Serbia","Left-Handed, Two-Handed Backhand","Alfred Dimech, Lovro Roncevic",CRO
+829,Joao Fonseca,16.0,20.0,4.0,,,,,"Right-Handed, Two-Handed Backhand",,BRA
+830,Max Basing,20.0,20.0,6.0,,154.0,71.0,Oxshott,"Right-Handed, Two-Handed Backhand",,GBR
+831,Fabrizio Andaloro,21.0,20.0,9.0,,,,,,,ITA
+832,Tyler Zink,21.0,20.0,11.0,,160.0,73.0,Lancaster,"Right-Handed, Two-Handed Backhand",,USA
+833,Oleksandr Bielinskyi,28.0,20.0,18.0,,176.0,73.0,"Cherkasy, Ukraine","Right-Handed, Unknown Backhand",,UKR
+834,Illya Beloborodko,21.0,20.0,19.0,,173.0,72.0,Severodonetsk,"Right-Handed, Two-Handed Backhand",Andrey Gorban,UKR
+835,Dan Alexandru Tomescu,23.0,20.0,20.0,,171.0,,Bucuresti,"Right-Handed, Unknown Backhand",Marius Cirstea,ROU
+836,Mikalai Haliak,24.0,20.0,21.0,,165.0,72.0,"Minsk, Belarus","Right-Handed, Two-Handed Backhand",,
+837,Ricardo Rodriguez - Pace,29.0,20.0,21.0,,,,,,,VEN
+838,Ray Ho,22.0,20.0,28.0,,187.0,74.0,Chunghua,"Left-Handed, Two-Handed Backhand",,TPE
+839,Guido Ivan Justo,25.0,19.0,3.0,,158.0,70.0,Buenos Aires,"Right-Handed, Two-Handed Backhand","Franco Jimenez, Juan Pablo Cañaz",ARG
+840,Renta Tokuda,24.0,19.0,8.0,,152.0,70.0,"Hiroshima, Japan","Right-Handed, Two-Handed Backhand","Tsuji,Yuma",JPN
+841,Toby Alex Kodat,19.0,19.0,11.0,,160.0,70.0,Bradenton,"Right-Handed, One-Handed Backhand",Ales Kodat,USA
+842,Kazuma Kawachi,28.0,19.0,19.0,,145.0,67.0,Osaka Japan,"Right-Handed, Two-Handed Backhand",,JPN
+843,Kosuke Ogura,26.0,19.0,22.0,,149.0,67.0,Kanagawa,"Right-Handed, Unknown Backhand",,JPN
+844,Nitin Kumar Sinha,23.0,19.0,22.0,,151.0,70.0,Kolkata,"Right-Handed, Two-Handed Backhand",,IND
+845,Nino Ehrenschneider,21.0,18.0,2.0,,,,,,,GER
+846,Darian King,30.0,18.0,8.0,2010.0,170.0,74.0,"Bridgetown, Barbados","Right-Handed, Two-Handed Backhand",Christopher King,BAR
+847,Taha Baadi,21.0,18.0,11.0,,162.0,72.0,"Rabat, Morocco","Right-Handed, Two-Handed Backhand","Chris Eaton, Anthony Bresky",CAN
+848,Alexandre Aubriot,23.0,18.0,12.0,,187.0,74.0,draguignan,"Right-Handed, One-Handed Backhand",,FRA
+849,Alexandru Jecan,34.0,18.0,13.0,,160.0,71.0,"Cluj-Napoca, Romania","Left-Handed, Two-Handed Backhand","Gavrila, Cruciat, Puscasu, Apostu-Efremov",ROU
+850,Henrique Rocha,18.0,18.0,14.0,,176.0,71.0,Porto,"Right-Handed, Two-Handed Backhand",Rui Machado,POR
+851,Raphael Lambling,22.0,18.0,16.0,,,,,,,FRA
+852,Lilian Marmousez,20.0,18.0,17.0,,180.0,71.0,Senlis,"Right-Handed, One-Handed Backhand",,FRA
+853,Dusan Obradovic,21.0,18.0,19.0,,,,,,,SRB
+854,Cayetano March,22.0,18.0,20.0,,165.0,69.0,Miami,"Right-Handed, Two-Handed Backhand",,ECU
+855,Philip Florig,19.0,18.0,20.0,,171.0,70.0,Aschaffenburg,"Right-Handed, Two-Handed Backhand",Benjamin Benedikter,GER
+856,Jonathan Eysseric,32.0,17.0,4.0,2008.0,176.0,71.0,"Saint-Germain-En-Laye, France","Left-Handed, Two-Handed Backhand","Nicolas Metairie, James Stevens",FRA
+857,Inigo Cervantes,33.0,17.0,8.0,2009.0,171.0,71.0,"Hondarribia, Guipúzcoa, Spain","Right-Handed, Two-Handed Backhand",Javier Ferrer and Israel Vior,ESP
+858,Patrick Maloney,22.0,17.0,8.0,,185.0,76.0,Oyster Bay,"Right-Handed, Two-Handed Backhand",,USA
+859,Learner Tien,17.0,17.0,11.0,,,,"Irvine, CA, USA","Left-Handed, Two-Handed Backhand",Eric Diaz,USA
+860,Karim-Mohamed Maamoun,31.0,17.0,12.0,,161.0,69.0,"Giza, Egypt","Right-Handed, Two-Handed Backhand","Karim Zaher,Tamer El Sawy",EGY
+861,Alan Fernando Rubio Fierros,23.0,17.0,12.0,,,,,,,MEX
+862,Omar Giacalone,30.0,17.0,12.0,,176.0,71.0,"Mazara del Vallo, Italy","Right-Handed, Two-Handed Backhand","Ferdinando Bonuccelli, Claudio Fortuna, Marco Salerno",ITA
+863,Takuya Kumasaka,24.0,17.0,12.0,,158.0,69.0,Yamagata,"Right-Handed, Two-Handed Backhand",,JPN
+864,Stefano Reitano,25.0,17.0,16.0,,165.0,71.0,Turin,"Right-Handed, Two-Handed Backhand",Gipo Arbino,ITA
+865,Takuto Niki,35.0,17.0,16.0,,162.0,72.0,"San Diego,CA, USA","Right-Handed, Two-Handed Backhand","Eiji Takeuchi,Masafumi Komada",JPN
+866,Connor Farren,28.0,17.0,16.0,,170.0,72.0,"Redwood City, CA","Right-Handed, Two-Handed Backhand",Mark Farren,USA
+867,Pierre Delage,21.0,17.0,17.0,,,,,,,FRA
+868,Gabriel Donev,26.0,17.0,17.0,,154.0,71.0,Sliven,"Right-Handed, Two-Handed Backhand",Todor Donev,BUL
+869,Gabriele Pennaforti,22.0,17.0,18.0,,,,,,,ITA
+870,Domagoj Biljesko,25.0,17.0,19.0,,180.0,75.0,Zagreb,"Right-Handed, Two-Handed Backhand",Tomo Bilješko,CRO
+871,Amaury Raynel,20.0,17.0,21.0,,158.0,71.0,Paris,"Right-Handed, Two-Handed Backhand",,FRA
+872T,Bradley Klahn,32.0,16.0,2.0,2012.0,165.0,72.0,"Poway, CA, USA","Left-Handed, Two-Handed Backhand",David Nainkin,USA
+872T,Matej Vocel,25.0,16.0,2.0,,194.0,74.0,Prague,"Right-Handed, Two-Handed Backhand",,CZE
+874,Koki Matsuda,22.0,16.0,3.0,,162.0,72.0,Osaka,"Right-Handed, Two-Handed Backhand",,JPN
+875,Nicolas Kobelt,18.0,16.0,4.0,,,,,,,SUI
+876,Jumpei Yamasaki,25.0,16.0,10.0,,165.0,71.0,"Saitama, Japan","Right-Handed, Two-Handed Backhand",Shinichi Takemasa,JPN
+877,Nicolas Parizzia,24.0,16.0,15.0,,,,,,,SUI
+878,Taisei Ichikawa,22.0,16.0,17.0,,154.0,71.0,Osaka,"Left-Handed, Two-Handed Backhand",,JPN
+879,Filippo Speziali,22.0,16.0,17.0,,,,,"Right-Handed, Unknown Backhand",,ITA
+880,Moerani Bouzige,23.0,16.0,18.0,,176.0,71.0,Gold Coast,"Right-Handed, Two-Handed Backhand",Mitch Walden,AUS
+881,Taiyo Yamanaka,21.0,16.0,19.0,,145.0,67.0,Nishinomiya,"Right-Handed, One-Handed Backhand",,JPN
+882,Diego Augusto Barreto Sanchez,20.0,16.0,20.0,,182.0,72.0,Caracas,"Left-Handed, Two-Handed Backhand",Equelite Ferrero Academy,ESP
+883,Vladislav Ivanov,23.0,16.0,20.0,,,,,"Right-Handed, Unknown Backhand",,
+884,Lukas Palovic,20.0,16.0,20.0,,,,,,,SVK
+885,Gabriele Maria Noce,27.0,16.0,22.0,,184.0,70.0,Alatri,"Right-Handed, Two-Handed Backhand",Silvio Scaiola,ITA
+886,Marsel Ilhan,35.0,16.0,24.0,2006.0,176.0,75.0,"Samarkand, Uzbekistan","Right-Handed, Two-Handed Backhand",Erhan Oral,TUR
+887,Boris Butulija,23.0,16.0,37.0,,,,,,,SRB
+888,Joshua Goodger,24.0,15.0,2.0,,,,,,,GBR
+889,Menelaos Efstathiou,23.0,15.0,5.0,,176.0,72.0,Limassol,"Right-Handed, Two-Handed Backhand",,CYP
+890,Juan Manuel Benitez Chavarriaga,27.0,15.0,7.0,,170.0,,"Medellin, Colombia","Right-Handed, Two-Handed Backhand",Jean-Luc Fontanot,COL
+891,Mika Brunold,18.0,15.0,8.0,,,,,,,SUI
+892,Jacopo Berrettini,24.0,15.0,9.0,,187.0,75.0,"Rome, Italy","Right-Handed, Two-Handed Backhand",,ITA
+893,Gabriel Alejandro Hidalgo,32.0,15.0,10.0,,,,,,,ARG
+894,Yanaki Milev,18.0,15.0,11.0,,171.0,71.0,Plovdiv,"Right-Handed, Two-Handed Backhand",Milko Milev,BUL
+895,Axel Garcian,20.0,15.0,12.0,,158.0,70.0,Carcassonne,"Right-Handed, Unknown Backhand",,FRA
+896,Kazuki Nishiwaki,28.0,15.0,13.0,,154.0,70.0,"Kyoto-Uji, Japan","Right-Handed, Two-Handed Backhand",,JPN
+897,Thiago Cigarran,22.0,15.0,15.0,,162.0,72.0,Buenos Aires,"Right-Handed, One-Handed Backhand",Leonardo Olguin,ARG
+898,Kyle Kang,17.0,15.0,15.0,,155.0,72.0,Fullerton,"Right-Handed, Two-Handed Backhand",Dave Mann,USA
+899,Leonid Sheyngezikht,22.0,15.0,19.0,,189.0,74.0,Saint Petersburg,"Right-Handed, Two-Handed Backhand",Noe Losmozos,BUL
+900,Lucas Bouquet,25.0,15.0,20.0,,189.0,73.0,Gonesse,"Right-Handed, Two-Handed Backhand",Florian Dambes,FRA
+901,Paul Woerner,26.0,15.0,21.0,,,,,"Right-Handed, Two-Handed Backhand",,GER
+902,Kelsey Stevenson,32.0,15.0,22.0,,168.0,72.0,"Toronto, Canada","Right-Handed, One-Handed Backhand","Jenner Stevenson, Paul Dale",CAN
+903,Oscar Moraing,22.0,15.0,24.0,,171.0,72.0,Weiden in der Oberpfalz,"Right-Handed, Two-Handed Backhand","Heiner Moraing, Peter Moraing",GER
+904T,Giacomo Dambrosi,21.0,14.0,4.0,,,,Trieste,"Right-Handed, One-Handed Backhand",Mosè Navarra,ITA
+904T,Haoyuan Huang,20.0,14.0,4.0,,143.0,70.0,Shanghai,"Right-Handed, Two-Handed Backhand",Chen Huang,CHN
+906,Carlos Gomez-Herrera,32.0,14.0,5.0,,187.0,75.0,"Marbella, Spain","Right-Handed, Two-Handed Backhand",Pepe Imaz,ESP
+907,Yeong-Seok Jeong,22.0,14.0,5.0,,,,,,,KOR
+908,Thomaz Bellucci,35.0,14.0,5.0,2005.0,181.0,74.0,"Tiete, Brazil","Left-Handed, Two-Handed Backhand","Thiago Alves, German Lopez",BRA
+909,Aliaksandr Bulitski,29.0,14.0,7.0,,149.0,68.0,"Minsk, Belarus","Right-Handed, Two-Handed Backhand",,
+910,Lautaro  Midon,18.0,14.0,7.0,,,,,"Right-Handed, Two-Handed Backhand",,ARG
+911,Brayden Schnur,27.0,14.0,8.0,2016.0,186.0,76.0,"Toronto, Canada","Right-Handed, Two-Handed Backhand",Raheel Manji,CAN
+912,Radu Mihai Papoe,20.0,14.0,8.0,,143.0,72.0,Bucharest,"Right-Handed, Two-Handed Backhand",Lin Papoe,ROU
+913,Aziz Kijametovic,26.0,14.0,9.0,,,,,"Right-Handed, Two-Handed Backhand",,BIH
+914,Yuichi Sugita,34.0,14.0,9.0,2006.0,159.0,69.0,"Sendai, Japan","Right-Handed, Two-Handed Backhand",,JPN
+915,Jie Cui,24.0,14.0,10.0,,159.0,72.0,"Beijing, China","Right-Handed, Two-Handed Backhand",Tian Tian,CHN
+916,Jeremy Beale,28.0,14.0,10.0,,184.0,76.0,"Preston, Australia","Left-Handed, Two-Handed Backhand",,AUS
+917,Kristijan Juhas,21.0,14.0,11.0,,,,,,,SRB
+918,Yuichiro Inui,27.0,14.0,12.0,,165.0,73.0,"Tokyo, Japan","Right-Handed, Two-Handed Backhand",Shinichi Takehisa,JPN
+919,Kody Pearson,23.0,14.0,12.0,,149.0,70.0,"Rockdale, Australia","Right-Handed, One-Handed Backhand",Glen Pearson,AUS
+920,Arvid Nordquist,24.0,14.0,13.0,,185.0,73.0,London,"Right-Handed, Two-Handed Backhand",Yerko Muller,SWE
+921,Nathan Seateun,25.0,14.0,13.0,,171.0,71.0,Céret,"Right-Handed, Unknown Backhand",Alain Barrere,FRA
+922,Karan Singh,19.0,14.0,14.0,,171.0,74.0,"Karnal,Haryana","Right-Handed, Two-Handed Backhand",Zeeshan Ali,IND
+923,Aleksi Lofman,20.0,14.0,15.0,,,,,,,FIN
+924,Kokoro Isomura,19.0,14.0,15.0,,158.0,69.0,Hiroshima,"Right-Handed, Two-Handed Backhand",,JPN
+925,Peter Benjamin Privara,18.0,14.0,16.0,,,,,"Right-Handed, One-Handed Backhand",,SVK
+926,Ken Cavrak,21.0,14.0,16.0,,180.0,72.0,Victoria,"Right-Handed, One-Handed Backhand",,AUS
+927,Grigoriy Lomakin,24.0,14.0,18.0,,172.0,78.0,Temirtau,"Right-Handed, Unknown Backhand",,KAZ
+928,Maik Steiner,28.0,14.0,20.0,,176.0,73.0,Erbach,"Right-Handed, Unknown Backhand",,GER
+929,Diego Fernandez Flores,22.0,14.0,21.0,,169.0,73.0,Santiago,"Right-Handed, One-Handed Backhand",PamShot Academy,CHI
+930,Michael Zheng,18.0,13.0,5.0,,160.0,74.0,Chesapeake,"Right-Handed, Two-Handed Backhand",,USA
+931,Sander Jong,22.0,13.0,5.0,,169.0,71.0,Haarlem,"Right-Handed, Two-Handed Backhand",,NED
+932,Vito Tonejc,23.0,13.0,6.0,,171.0,75.0,zagreb,"Right-Handed, Two-Handed Backhand",Andrej Tonejc,CRO
+933,Cash Hanzlik,20.0,13.0,8.0,,,,,,,USA
+934T,Luca Giacomini,25.0,13.0,8.0,,138.0,67.0,"Padova, Italy","Right-Handed, Unknown Backhand",,ITA
+934T,Jordan Hasson,23.0,13.0,8.0,,165.0,72.0,Haifa,"Right-Handed, Two-Handed Backhand",,ISR
+936,Younes Lalami Laaroussi,21.0,13.0,9.0,,176.0,74.0,Montreal,"Right-Handed, Two-Handed Backhand","Alberto Castellani, Othmane Lalami",MAR
+937,Sebastian Dominko,19.0,13.0,9.0,,,,,,,SLO
+938,Kilian Feldbausch,17.0,13.0,9.0,,154.0,73.0,Geneva,"Right-Handed, Two-Handed Backhand",,SUI
+939,A.J. Catanzariti,27.0,13.0,10.0,,,72.0,Pittsburgh,"Right-Handed, Unknown Backhand",Craig Perry,USA
+940,Inaki Cabrera Bello,20.0,13.0,11.0,,,,,,,ESP
+941,Alexander Zgirovsky,21.0,13.0,12.0,,176.0,75.0,"Minsk, Belarus","Right-Handed, Two-Handed Backhand",,
+942,Milan Welte,21.0,13.0,14.0,,,,,"Right-Handed, Unknown Backhand",,GER
+943,Lorenzo Gagliardo,22.0,13.0,15.0,,154.0,69.0,Pilar,"Right-Handed, Two-Handed Backhand",,ARG
+944,Noah Lopez,20.0,13.0,22.0,,162.0,72.0,Lucerne,"Left-Handed, Unknown Backhand",,SUI
+945,Alexander Crnokrak,22.0,13.0,22.0,,184.0,75.0,Gold Coast,"Right-Handed, Unknown Backhand",,AUS
+946,Viktor Jovic,20.0,13.0,22.0,,,,,,,SRB
+947,Neil Oberleitner,23.0,13.0,25.0,,187.0,76.0,Vienna,"Right-Handed, Two-Handed Backhand","Martin Gattringer, Michael Oberleitner, Christoph Lang",AUT
+948,Maximus Jones,18.0,13.0,33.0,,187.0,73.0,Sydney,"Right-Handed, Two-Handed Backhand",,THA
+949,Boris Fassbender,24.0,12.0,2.0,,,,,"Right-Handed, Unknown Backhand",,FRA
+950,William Grant,21.0,12.0,3.0,,,,,,,USA
+951,Joao Menezes,26.0,12.0,4.0,2014.0,185.0,73.0,"Uberaba, Brazil","Right-Handed, Two-Handed Backhand",Patricio Arnold,BRA
+952,Julian Ocleppo,25.0,12.0,6.0,,198.0,75.0,Monaco,"Right-Handed, Two-Handed Backhand",Alessandro Motti,ITA
+953,Adrian Bodmer,27.0,12.0,6.0,,162.0,71.0,Wil,"Right-Handed, One-Handed Backhand",Joachim Kretz/Francesco Ceriani,SUI
+954,Isaac Becroft,22.0,12.0,7.0,,,,,,,NZL
+955,Yassine Dlimi,19.0,12.0,8.0,,,,,,,MAR
+956,Julio Cesar Porras,24.0,12.0,8.0,,,,,,,ARG
+957,Florian Broska,25.0,12.0,8.0,,,,,"Right-Handed, Unknown Backhand",,GER
+958,Joshua Sheehy,25.0,12.0,11.0,,195.0,74.0,"Arlington, TX","Left-Handed, Unknown Backhand",,USA
+959,Seydina Andre,19.0,12.0,11.0,,,,,,,SEN
+960,Niccolo Catini,25.0,12.0,13.0,,162.0,70.0,Rome,"Right-Handed, Two-Handed Backhand",,ITA
+961,Alexis Musialek,34.0,12.0,14.0,2013.0,,72.0,"Dax, France","Right-Handed, Two-Handed Backhand",,FRA
+962,Yannick Mertens,35.0,12.0,14.0,2006.0,156.0,73.0,"Anderlecht, Belgium","Right-Handed, Two-Handed Backhand",Kris Mertens,BEL
+963,Lorenzo Claverie,20.0,12.0,14.0,,211.0,77.0,Caracas,"Right-Handed, Two-Handed Backhand","Marco Martizi, Luis Nascimiento, Carlos Claverie",ITA
+964,Yuttana Charoenphon,22.0,12.0,14.0,,151.0,70.0,Angthong,"Right-Handed, Two-Handed Backhand",Paradorn Srichaphan,THA
+965,Maxence Broville,23.0,12.0,14.0,,181.0,76.0,Schoelcher,"Right-Handed, Unknown Backhand",Philippe Pech,FRA
+966T,Filip Duda,24.0,12.0,14.0,,169.0,73.0,Ostrov,"Right-Handed, Two-Handed Backhand",,CZE
+966T,Mwendwa Mbithi,24.0,12.0,14.0,,165.0,80.0,Hackensack,"Right-Handed, Unknown Backhand",Jackson Mbithi,USA
+968,Xavi Matas Ortega,20.0,12.0,14.0,,,,,,,ESP
+969,Wishaya Trongcharoenchaikul,27.0,12.0,15.0,,,,,"Right-Handed, Two-Handed Backhand",,THA
+970,Adrian Oetzbach,25.0,12.0,16.0,,176.0,73.0,Essen,"Right-Handed, Two-Handed Backhand",Peter Moraing,GER
+971,Brandon Walkin,28.0,12.0,16.0,,187.0,74.0,"Brisbane, Australia","Right-Handed, Two-Handed Backhand",Ryan Agar,AUS
+972,Maxim Zhukov,17.0,12.0,16.0,,,,,,,
+973,Igor Gimenez,22.0,12.0,18.0,,167.0,71.0,São Paulo,"Right-Handed, Two-Handed Backhand",,BRA
+974,Marlon Vankan,22.0,12.0,18.0,,162.0,67.0,Thionville,"Right-Handed, Two-Handed Backhand",Frederic De Fays,GER
+975,Seita Watanabe,22.0,12.0,18.0,,165.0,71.0,Fukushima,"Right-Handed, Two-Handed Backhand",,JPN
+976,Daniel Siniakov,19.0,12.0,19.0,,171.0,72.0,Hradec Králové,"Right-Handed, Two-Handed Backhand",,CZE
+977,Rishab Agarwal,27.0,12.0,20.0,,154.0,69.0,Hyderabad,"Right-Handed, Two-Handed Backhand",,IND
+978,Alexandros Skorilas,22.0,12.0,22.0,2018.0,179.0,73.0,"Ioannina, Greece","Right-Handed, Two-Handed Backhand",Vasileios Skorilas,GRE
+979,Markos Kalovelonis,28.0,11.0,2.0,2012.0,209.0,75.0,"Marousi, Greece","Right-Handed, Two-Handed Backhand",Elina Neplii,GRE
+980,Albano Olivetti,31.0,11.0,4.0,2010.0,229.0,80.0,"Haguenau, France","Right-Handed, One-Handed Backhand",,FRA
+981,Patrick Zahraj,23.0,11.0,5.0,,,,,,,GER
+982,Blake Mott,26.0,11.0,5.0,,170.0,71.0,"Caringbah, Australia","Right-Handed, Two-Handed Backhand",Peter Luczak,AUS
+983T,Alexander Kotzen,22.0,11.0,6.0,,170.0,73.0,"New York, NY, USA","Right-Handed, Two-Handed Backhand",,USA
+983T,George Loffhagen,21.0,11.0,6.0,,184.0,74.0,"London, Great Britain","Right-Handed, Two-Handed Backhand",,GBR
+985,James Tracy,20.0,11.0,6.0,,176.0,72.0,Ann Arbor,"Right-Handed, Two-Handed Backhand",,USA
+986,Luca Wiedenmann,,11.0,6.0,,,,,,,GER
+987T,Petros Chrysochos,26.0,11.0,7.0,2019.0,185.0,73.0,"Larnaca, Cyprus","Right-Handed, Two-Handed Backhand",Demetris Herodotou,CYP
+987T,Rayane Roumane,22.0,11.0,7.0,2014.0,176.0,76.0,"Montreuil, France","Right-Handed, Two-Handed Backhand",Norsalam Ghedjemis,ALG
+989,Siddharth Vishwakarma,28.0,11.0,7.0,,163.0,75.0,"Varanasi, India","Left-Handed, Two-Handed Backhand",Ratan sharma,IND
+990,Jeremy Jin,18.0,11.0,9.0,,165.0,71.0,Sydney,"Right-Handed, Two-Handed Backhand",Gavin Van Peperzeel,AUS
+991,Lukas Lacko,35.0,11.0,11.0,2005.0,192.0,74.0,"Piestany, Slovakia","Right-Handed, Two-Handed Backhand",Dominik Hrbaty,SVK
+992,Lorenzo Bresciani,22.0,11.0,12.0,,,,,,,ITA
+993,Jasza Szajrych,20.0,11.0,12.0,,,,,,,POL
+994,Tobias Franco,21.0,11.0,12.0,,180.0,70.0,Buenos Aires,"Right-Handed, Two-Handed Backhand",,ARG
+995,Ji Hoon Son,28.0,11.0,14.0,,163.0,71.0,"Busan, Korea","Right-Handed, Two-Handed Backhand",,KOR
+996,Fabio Coelho,22.0,11.0,14.0,,151.0,69.0,Oliveira de Azeméis,"Right-Handed, Two-Handed Backhand","João Maio, Eduardo Rodrigues",POR
+997,Guy Orly Iradukunda,26.0,11.0,15.0,,167.0,,Gitega,"Right-Handed, Unknown Backhand",,BDI
+998,Sebastian Sorger,17.0,11.0,15.0,,,,,"Right-Handed, Unknown Backhand",,AUT
+999,Ignasi De Rueda De Genover,24.0,11.0,17.0,,165.0,72.0,"Barcelona, Spain","Right-Handed, Two-Handed Backhand",,ESP
+1000,Isaiah Strode,25.0,11.0,17.0,,165.0,72.0,San Diego,"Right-Handed, Two-Handed Backhand",,USA
